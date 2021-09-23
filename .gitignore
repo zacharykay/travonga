@@ -32,3 +32,22 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# unimplemented files
+/components/SizeWrapper.js
+/data/destinationsAll.js
+/utils/navigation.js
+/styles/_config.scss
+/styles/styles.scss
+
+/pages/api/attractions
+/pages/api/destinations/[stateName]
+/data/attractions/temp.js
+/data/attractions/temp0.js
+/data/attractions/temp1.js
+/data/attractions/temp2.js
+/data/attractions/temp3.js
+/data/attractions/temp4.js
+/data/allItinerariesnbsp.js
+/data/itinerarySectionsOriginal.js
+/extra

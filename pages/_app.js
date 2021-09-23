@@ -1,7 +1,14 @@
-import '../styles/globals.css'
+import Layout from '../components/layout/Layout';
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+import '../styles/globals.css';
+import React from 'react';
+
+function Travonga({ Component, pageProps }) {
+	return (
+		<Layout>
+			<Component {...pageProps} />
+		</Layout>
+	);
 }
 
-export default MyApp
+export default Travonga;

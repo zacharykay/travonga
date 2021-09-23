@@ -1,0 +1,140 @@
+.icon {
+	font-size: 2.4rem;
+	padding: 0;
+	text-align: center;
+	color: var(--bright-white);
+}
+
+.dotsContainer {
+	position: absolute;
+	display: flex;
+	text-align: center;
+	justify-content: space-between;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 15rem;
+	top: -3.2rem;
+}
+
+.prev,
+.next {
+	padding: 0;
+	background: var(--carousel-button-blue);
+	border-radius: 1.5rem;
+	border-color: transparent;
+	line-height: 1rem;
+	font-size: 1rem;
+	height: 2.8rem;
+	cursor: pointer;
+	opacity: .66;
+}
+.prev:hover,
+.next:hover {
+	background: var(--mid-grey);
+	opacity: 1;
+}
+
+.prev:active,
+.next:active {
+	transform: translate(2px, 1px);
+}
+
+@media (min-width: 800px) {
+	.dotsContainer {
+		width: 10rem;
+	}
+}
+
+.carouselWrapper {
+	width: 100%;
+	max-width: var(--max-width);
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+
+.carousel-standard {
+	width: 100%;
+	min-height: 1px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	max-width: var(--max-width);
+	margin-top: 2rem;
+}
+
+.carouselItems {
+	position: relative;
+	height: calc(
+		var(--carousel-img-width) * var(--carousel-img-height-ratio) +
+			var(--carousel-item-text)
+	);
+}
+
+.carouselItem {
+	position: absolute;
+	background-color: var(--bright-white);
+	top: 0;
+	left: 0;
+	width: var(--carousel-img-width);
+	height: (--carousel-img-height);
+	height: 100%;
+	transition: .2s ease-in-out;
+}
+
+.carouselItem img {
+	display: block;
+	width: 100%;
+}
+
+.carouselItem.activeSlide {
+	opacity: 1;
+	transform: translateX(0);
+	z-index: 10;
+}
+.carouselItem.activeSlide2 {
+	opacity: 1;
+	transform: translateX(100%);
+	z-index: 10;
+}
+.carouselItem.activeSlide3 {
+	opacity: 1;
+	transform: translateX(200%);
+	z-index: 10;
+}
+.carouselItem.lastSlide {
+	transform: translateX(-300%);
+	z-index: 0;
+	opacity: 1;
+	display: hidden;
+	transition: transform .4s ease-in-out;
+}
+
+.carouselItem.nextSlide {
+	transform: translateX(300%);
+	z-index: 0;
+	opacity: 1;
+	display: hidden;
+}
+
+.carousel-item-text {
+	text-align: center;
+	margin-top: 0.8rem;
+	white-space: pre-wrap;
+}
+
+.carousel-item-title {
+	color: var(--dark-grey);
+	font-size: 2.1rem;
+	font-weight: bold;
+	font-family: var(--body);
+	line-height: 3rem;
+	display: inline-block;
+}
+
+.carousel-item-credits {
+	font-size: 0.9rem;
+	line-height: 1.5rem;
+	display: inline-block;
+}
