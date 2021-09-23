@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/itineraries/[id]": "pages/itineraries/[id].js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/destinations/austria/[id]": "pages/destinations/austria/[id].js",
+  "/api/itineraries": "pages/api/itineraries.js",
+  "/api/itineraries/[id]": "pages/api/itineraries/[id].js",
+  "/api/destinations/austria": "pages/api/destinations/austria.js",
+  "/api/destinations/austria/[id]": "pages/api/destinations/austria/[id].js"
+}
