@@ -2,6 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/destinations/[id]": "pages/destinations/[id].js",
-  "/destinations/europe/[id]": "pages/destinations/europe/[id].js"
+  "/destinations/california/[id]": "pages/destinations/california/[id].js",
+  "/destinations/arizona/[id]": "pages/destinations/arizona/[id].js",
+  "/itineraries/[id]": "pages/itineraries/[id].js",
+  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js",
+  "/destinations/[id]": "pages/destinations/[id].js"
 }

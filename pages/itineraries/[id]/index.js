@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 
 import { server } from '../../../config';
 import Itinerary from '../../../components/itineraries/Itinerary';
+const { itineraries } = require('../../../data/itineraries.json');
 
 const Attraction = ({ data }) => {
 	const [ size, setSize ] = useState(null);
@@ -26,9 +27,11 @@ const Attraction = ({ data }) => {
 };
 
 export const getStaticProps = async (context) => {
-	const response = await fetch(`${server}/api/itineraries/${context.params.id}`);
-	const data = await response.json();
-
+	const id = context.params.id;
+	const filtered = itineraries.filter((item) => {
+		return item.id === id;
+	});
+	const data = filtered[0];
 	return {
 		props: {
 			data
@@ -37,10 +40,7 @@ export const getStaticProps = async (context) => {
 };
 
 export const getStaticPaths = async () => {
-	const response = await fetch(`${server}/api/itineraries`);
-	const data = await response.json();
-
-	const ids = data.map((place) => place.id);
+	const ids = itineraries.map((place) => place.id);
 	const paths = ids.map((id) => {
 		return { params: { id: id.toString() } };
 	});
