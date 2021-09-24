@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { server } from '../../../../config';
 import AttractionsGuide from '../../../../components/attraction_guides/AttractionsGuide';
 
-const Attraction = ({ data }) => {
+const attraction = ({ data }) => {
 	const [ size, setSize ] = useState(null);
 
 	const checkSize = () => {
@@ -49,4 +49,4 @@ export const getStaticPaths = async () => {
 	return { paths, fallback: false };
 };
 
-export default Attraction;
+export default attraction;
