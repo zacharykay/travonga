@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
 import MapsAttractionLists from '../widgets/MapsAttractionLists';
 import NearbyDestinations from '../../components/destinations/NearbyDestinations';
@@ -6,7 +6,7 @@ import AttractionGuideHeader from './AttractionGuideHeader';
 import AttractionGuideSection from './AttractionGuideSection';
 import Carousel from '../../components/widgets/Carousel';
 
-const AttractionsGuide = ({ data, size }) => {
+const AttractionsGuide = ({ data }) => {
 	const {
 		destinationName,
 		attractions,
@@ -17,6 +17,24 @@ const AttractionsGuide = ({ data, size }) => {
 		stateName,
 		meta
 	} = data;
+
+	const [ size, setSize ] = useState(null);
+
+	const checkSize = () => {
+		setSize(window.innerWidth);
+	};
+
+	useEffect(() => {
+		checkSize();
+	}, []);
+
+	useEffect(() => {
+		window.addEventListener('resize', checkSize);
+
+		return () => {
+			window.removeEventListener('resize', checkSize);
+		};
+	}, []);
 
 	return (
 		<React.Fragment>
