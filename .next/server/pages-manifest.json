@@ -1,9 +1,5 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/destinations/austria/[id]": "pages/destinations/austria/[id].js",
-  "/destinations/[id]": "pages/destinations/[id].js",
-  "/api/destinations/austria": "pages/api/destinations/austria.js",
-  "/api/destinations/austria/[id]": "pages/api/destinations/austria/[id].js"
+  "/_document": "pages/_document.js"
 }
