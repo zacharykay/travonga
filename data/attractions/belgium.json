@@ -298,7 +298,7 @@
 			"amsterdam",
 			"greater_amsterdam",
 			"rotterdam",
-			"luxmebourg_city"
+			"luxembourg_city"
 		]
 	},
 	{
@@ -663,7 +663,7 @@
 			"amsterdam",
 			"greater_amsterdam",
 			"rotterdam",
-			"luxmebourg_city",
+			"luxembourg_city",
 			"cologne",
 			"koblenz"
 		]
@@ -786,7 +786,7 @@
 				{
 					"attraction": "Citadel of Namur",
 					"image_url": "https://www.travelimager.com/images/belgium/Belgium-Southeastern-Belgium-Namur-Citadelle-of-Namur-Citadel.jpg",
-					"image_alt": "View of the heavily fortified hilltop Citadel of Namur, lcoated at the confluence of two rivers in Southeastern Blegium",
+					"image_alt": "View of the heavily fortified hilltop Citadel of Namur, located at the confluence of two rivers in Southeastern Belgium",
 					"cc_image_url": "https://commons.wikimedia.org/w/index.php?title=File:Citadelle%2Bnamourette16-9.JPG&action=history",
 					"cc_author_url": "https://commons.wikimedia.org/w/index.php?title=File:Citadelle%2Bnamourette16-9.JPG&action=history",
 					"cc_author": "NEW - Namur",
@@ -870,7 +870,7 @@
 		"nearby_destinations": [
 			"brussels",
 			"bruges",
-			"luxmebourg_city",
+			"luxembourg_city",
 			"amsterdam",
 			"greater_amsterdam",
 			"rotterdam",
