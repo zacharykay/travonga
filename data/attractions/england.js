@@ -2132,7 +2132,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: "Shakespeare's Schoolroom &\nGuildhall",
+					attraction: "Shakespeare's Schoolroom & Guildhall",
 					image_url:
 						'https://www.travelimager.com/images/england/England-Stratford-upon-Avon-Shakespeares-Schoolroom-and-Guildhall.jpg',
 					image_alt:
@@ -2147,7 +2147,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 3.0'
 				},
 				{
-					attraction: "Holy Trinity Church\n(Shakespeare's Tomb)",
+					attraction: "Holy Trinity Church (Shakespeare's Tomb)",
 					image_url:
 						'https://www.travelimager.com/images/england/England-Stratford-upon-Avon-Church-of-the-Holy-Trinity.jpg',
 					image_alt:
@@ -2181,7 +2181,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Shakespeare's New Place\n(Nash House)",
+					attraction: "Shakespeare's New Place (Nash House)",
 					image_url:
 						'https://www.travelimager.com/images/england/England-Stratford-upon-Avon-Shakespeares-New-Place-Nash-House.jpg',
 					image_alt:

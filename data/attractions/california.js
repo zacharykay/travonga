@@ -2410,7 +2410,7 @@ export const attractionGuides = [
 			],
 			carousel_5: [
 				{
-					attraction: 'The Getty Villa\n(Pacific Palisades)',
+					attraction: 'The Getty Villa (Pacific Palisades)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Los-Angeles-Pacific-Palisades-The-Getty-Villa.jpg',
 					image_alt:
@@ -2426,7 +2426,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Point Dume State Beach\n(Malibu)',
+					attraction: 'Point Dume State Beach (Malibu)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Greater-Los-Angeles-Malibu-Point-Dume-Beach.jpg',
 					image_alt:
@@ -2440,7 +2440,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Zuma Beach\n(Malibu)',
+					attraction: 'Zuma Beach (Malibu)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Los-Angeles-Malibu-Zuma-Beach-and-Cliffs.jpg',
 					image_alt:
@@ -2454,7 +2454,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'The Queen Mary Cruiseliner\n(Long Beach)',
+					attraction: 'The Queen Mary Cruiseliner (Long Beach)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Greater-Los-Angeles-Long-Beach-Queen-Mary.jpg',
 					image_alt:
@@ -2469,7 +2469,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Rainbow Harbor Lighthouse\n(Long Beach)',
+					attraction: 'Rainbow Harbor Lighthouse (Long Beach)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Greater-Los-Angeles-Long-Beach-Rainbow-Harbor-Lighthouse.jpg',
 					image_alt:
@@ -2484,7 +2484,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Battleship USS Iowa\n(San Pedro)',
+					attraction: 'Battleship USS Iowa (San Pedro)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-Greater-Los-Angeles-San-Pedro-Harbor-Battleship-USS-Iowa-Museum.jpg',
 					image_alt:
@@ -4984,7 +4984,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Golden Gate Bridge\n(Fort Point)',
+					attraction: 'Golden Gate Bridge (Fort Point)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Golden-Gate-Bridge-Fort-Point.jpg',
 					image_alt:
@@ -5012,7 +5012,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 2.0'
 				},
 				{
-					attraction: 'Golden Gate Bridge\n(Battery Spencer)',
+					attraction: 'Golden Gate Bridge (Battery Spencer)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Golden-Gate-Bridge-Battery-Spencer.jpg',
 					image_alt:
@@ -5028,7 +5028,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Christmas Tree Point\n(Twin Peaks)',
+					attraction: 'Christmas Tree Point (Twin Peaks)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Twin-Peaks-Christmas-Tree-Point.jpg',
 					image_alt:
@@ -5232,7 +5232,7 @@ export const attractionGuides = [
 			],
 			carousel_4: [
 				{
-					attraction: 'San Francisco Museum of\nModern Art',
+					attraction: 'San Francisco Museum of Modern Art',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-San-Francisco-Museum-of-Modern-Art.jpg',
 					image_alt:
@@ -5247,7 +5247,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pier 7\n(View of Downtown)',
+					attraction: 'Pier 7 (View of Downtown)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Pier-7.jpg',
 					image_alt:
@@ -5263,7 +5263,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Mt. Livermore\n(Angel Island State Park)',
+					attraction: 'Mt. Livermore (Angel Island State Park)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Angel-Island-State-Park-Mount-Livermore.jpg',
 					image_alt:
@@ -5279,7 +5279,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Winchester Mystery House\n(San Jose)',
+					attraction: 'Winchester Mystery House (San Jose)',
 					image_url:
 						'https://www.travelimager.com/images/california/California-San-Francisco-Winchester-Mystery-House.jpg',
 					image_alt:

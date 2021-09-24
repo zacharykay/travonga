@@ -199,7 +199,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Einsteinhaus Bern\nMuseum',
+					attraction: 'Einsteinhaus Bern Museum',
 					image_url:
 						'https://www.travelimager.com/images/switzerland/Switzerland-Bern-Einsteinhaus-Bern-Museum-Interior.jpg',
 					image_alt:
@@ -231,7 +231,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Kunstmuseum Bern\nFine Arts Museum',
+					attraction: 'Kunstmuseum Bern Fine Arts Museum',
 					image_url:
 						'https://www.travelimager.com/images/switzerland/Switzerland-Bern-Kunstmuseum-Bern-Fine-Arts-Museum.jpg',
 					image_alt:
@@ -1489,7 +1489,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Matterhorn Glacier Paradise\nIce Cave',
+					attraction: 'Matterhorn Glacier Paradise Ice Cave',
 					image_url:
 						'https://www.travelimager.com/images/switzerland/Switzerland-Zermatt-Matterhorn-Glacier-Paradise-Ice-Cave.jpg',
 					image_alt:
@@ -1505,7 +1505,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Trockegner Steg Lake\n(Matterhorn View)',
+					attraction: 'Trockegner Steg Lake (Matterhorn View)',
 					image_url:
 						'https://www.travelimager.com/images/switzerland/Switzerland-Zermatt-Trockegner-Steg-Station-Lake-Matterhorn-View.jpg',
 					image_alt:

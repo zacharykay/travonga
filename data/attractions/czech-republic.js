@@ -420,7 +420,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: 'Clocktower View of\nOld Town Square',
+					attraction: 'Clocktower View of Old Town Square',
 					image_url:
 						'https://www.travelimager.com/images/czech-republic/Czechia-Czech-Republic-Prague-Old-Town-Square-Clock-Tower-View.jpg',
 					image_alt:

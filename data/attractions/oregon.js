@@ -1212,7 +1212,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Ecola Point\n(Ecola State Park)',
+					attraction: 'Ecola Point (Ecola State Park)',
 					image_url:
 						'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg',
 					image_alt:
@@ -1226,7 +1226,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Indian Beach\n(Ecola State Park)',
+					attraction: 'Indian Beach (Ecola State Park)',
 					image_url:
 						'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Indian-Beach-1.jpg',
 					image_alt:
@@ -1472,7 +1472,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Ecola Point\n(Ecola State Park)',
+					attraction: 'Ecola Point (Ecola State Park)',
 					image_url:
 						'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg',
 					image_alt:
@@ -1486,7 +1486,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Indian Beach\n(Ecola State Park)',
+					attraction: 'Indian Beach (Ecola State Park)',
 					image_url:
 						'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Indian-Beach-1.jpg',
 					image_alt:

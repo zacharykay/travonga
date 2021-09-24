@@ -2332,7 +2332,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Patio de la Acequia\n(Generalife Gardens)',
+					attraction: 'Patio de la Acequia (Generalife Gardens)',
 					image_url:
 						'https://www.travelimager.com/images/spain/Spain-Granada-Alhambra-Generalife-Gardens-Patio-de-la-Acequia.jpg',
 					image_alt:
@@ -2348,7 +2348,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Patio de la Sultana\n(Generalife Gardens)',
+					attraction: 'Patio de la Sultana (Generalife Gardens)',
 					image_url:
 						'https://www.travelimager.com/images/spain/Spain-Granada-Alhambra-Generalife-Gardens-Patio-de-la-Sultana.jpg',
 					image_alt:
@@ -3324,7 +3324,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'San Lorenzo de El Escorial\nLibrary',
+					attraction: 'San Lorenzo de El Escorial Library',
 					image_url:
 						'https://www.travelimager.com/images/spain/Spain-Greater-Madrid-Royal-Seat-of-San-Lorenzo-de-El-Escorial-Monastery-Biblioteca-Library.jpg',
 					image_alt:
@@ -4117,7 +4117,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 2.0'
 				},
 				{
-					attraction: 'Royal Alcazar of Seville\n(Patio)',
+					attraction: 'Royal Alcazar of Seville (Patio)',
 					image_url:
 						'https://www.travelimager.com/images/spain/Spain-Seville-Real-Alcazar-de-Sevilla-Royal-Alcazar-Patio-1.jpg',
 					image_alt:
@@ -4132,7 +4132,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Royal Alcazar of Seville\n(Interior)',
+					attraction: 'Royal Alcazar of Seville (Interior)',
 					image_url:
 						'https://www.travelimager.com/images/spain/Spain-Seville-Real-Alcazar-de-Sevilla-Royal-Alcazar-Interior.jpg',
 					image_alt:

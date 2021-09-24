@@ -2017,7 +2017,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Loch Lubnaig Lake\n(The Cabin)',
+					attraction: 'Loch Lubnaig Lake (The Cabin)',
 					image_url:
 						'https://www.travelimager.com/images/scotland/Scotland-Loch-Lomond-and-the-Trossachs-National-Park-Loch-Lubnaig.jpg',
 					image_alt:

@@ -317,7 +317,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Fisgard Lighthouse\n(Fort Rodd Hill)',
+				attraction: 'Fisgard Lighthouse (Fort Rodd Hill)',
 				image_url:
 					'https://www.travelimager.com/images/british-columbia/British-Columbia-Vancouver-Island-Victoria-Fort-Rodd-Hill-Fisgard-Lighthouse.jpg',
 				image_alt:
@@ -332,7 +332,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Hatley Park\nNational Historic Site',
+				attraction: 'Hatley Park National Historic Site',
 				image_url:
 					'https://www.travelimager.com/images/british-columbia/British-Columbia-Vancouver-Island-Victoria-Hatley-Castle.jpg',
 				image_alt:
@@ -410,7 +410,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Classic Village Viewpoint\n(Hallstatt)',
+				attraction: 'Classic Village Viewpoint (Hallstatt)',
 				image_url:
 					'https://www.travelimager.com/images/austria/Austria-Salzkammergut-Hallstatt-Classic-Village-Viewpoint.jpg',
 				image_alt:
@@ -425,7 +425,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Marktplatz\n(Hallstatt)',
+				attraction: 'Marktplatz (Hallstatt)',
 				image_url:
 					'https://www.travelimager.com/images/austria/Austria-Salzkammergut-Hallstatt-Marktplatz-Market-Plaza.jpg',
 				image_alt:
@@ -471,7 +471,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Schafberg Mountain\n(St. Wolfgang)',
+				attraction: 'Schafberg Mountain (St. Wolfgang)',
 				image_url:
 					'https://www.travelimager.com/images/austria/Austria-Salzkammergut-St-Wolfgang-im-Salzkammergut-Schafberg-Mountain.jpg',
 				image_alt:
@@ -763,7 +763,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Canals & Church of\nOur Lady of Bruges',
+				attraction: 'Canals & Church of Our Lady of Bruges',
 				image_url:
 					'https://www.travelimager.com/images/belgium/Belgium-Bruges-Wollestraat-Bridge-Church-of-Our-Lady-of-Bruges-Tower-Viewpoint.jpg',
 				image_alt:
@@ -1454,7 +1454,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Big Ben &\nWestminster Palace',
+				attraction: 'Big Ben & Westminster Palace',
 				image_url:
 					'https://www.travelimager.com/images/england/England-London-Big-Ben.jpg',
 				image_alt:
@@ -1533,7 +1533,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: "Millenium Bridge &\nSt. Paul's Cathedral",
+				attraction: "Millenium Bridge & St. Paul's Cathedral",
 				image_url:
 					'https://www.travelimager.com/images/england/England-London-Millenium-Bridge.jpg',
 				image_alt:
@@ -1983,7 +1983,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Theatre Antique\n(Orange)',
+				attraction: 'Theatre Antique (Orange)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Greater-Avignon-Orange-Theatre-Antique-Ancient-Roman-Theater.jpg',
 				image_alt:
@@ -1998,7 +1998,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Papal Palace\n(Avignon)',
+				attraction: 'Papal Palace (Avignon)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Avignon-Palais-des-Papes-Papal-Palace.jpg',
 				image_alt:
@@ -2044,7 +2044,7 @@ export const itinerarySections = {
 		itinerary_guide_tabs: null,
 		attractions: [
 			{
-				attraction: 'Cite de Carcassonne\n(Aerial View)',
+				attraction: 'Cite de Carcassonne (Aerial View)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Aerial-View.jpg',
 				image_alt:
@@ -2061,7 +2061,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Chateau Comtal\n(Carcassonne)',
+				attraction: 'Chateau Comtal (Carcassonne)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Chateau-de-Comtal.jpg',
 				image_alt:
@@ -2076,7 +2076,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Cite de Carcassonne\n(Wide View)',
+				attraction: 'Cite de Carcassonne (Wide View)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Wide-View.jpg',
 				image_alt:
@@ -2091,7 +2091,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: "Porte de l'Aude\n(Carcassonne)",
+				attraction: "Porte de l'Aude (Carcassonne)",
 				image_url:
 					' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-de-lAude-Aude-Gate.jpg',
 				image_alt:
@@ -2168,7 +2168,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Cite de Carcassonne\n(Aerial View)',
+				attraction: 'Cite de Carcassonne (Aerial View)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Aerial-View.jpg',
 				image_alt:
@@ -2185,7 +2185,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Chateau Comtal\n(Carcassonne)',
+				attraction: 'Chateau Comtal (Carcassonne)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Chateau-de-Comtal.jpg',
 				image_alt:
@@ -2243,7 +2243,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Fishmonger District\n(La Petite Venise)',
+				attraction: 'Fishmonger District (La Petite Venise)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Colmar-La-Petite-Venise-Fishmonger-District-Rue-des-Escoles-Bridge-View.jpg',
 				image_alt:
@@ -2260,7 +2260,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Rue des Marchands\n(Merchants Street)',
+				attraction: 'Rue des Marchands (Merchants Street)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Colmar-Rue-des-Marchands-Merchants-Shopping-Street.jpg',
 				image_alt:
@@ -2277,7 +2277,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Rue Turenne View\n(La Petite Venise)',
+				attraction: 'Rue Turenne View (La Petite Venise)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Colmar-La-Petite-Venise-Rue-Turenne-Bridge-View.jpg',
 				image_alt:
@@ -3005,7 +3005,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Pont Saint-Martin View\n(Petite France)',
+				attraction: 'Pont Saint-Martin View (Petite France)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Pont-Saint-Martin-Bridge-View.jpg',
 				image_alt:
@@ -3021,7 +3021,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Petite France\nMedieval Towers',
+				attraction: 'Petite France Medieval Towers',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Ponts-Couverts-Barrage-Vauban-Tower-Bridges-Viewpoint-1.jpg',
 				image_alt:
@@ -3039,7 +3039,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Place Benjamin Zix View\n(Petite France)',
+				attraction: 'Place Benjamin Zix View (Petite France)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Place-Benjamin-Zix-View.jpg',
 				image_alt:
@@ -3054,7 +3054,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Pont du Corbeau View\n(Grand Ile)',
+				attraction: 'Pont du Corbeau View (Grand Ile)',
 				image_url:
 					'https://www.travelimager.com/images/france/France-Strasbourg-Grand-Ile-Pont-du-Corbeau-View.jpg',
 				image_alt:
@@ -3215,7 +3215,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Neuschwanstein Castle\n(Fall Marienbrücke View)',
+				attraction: 'Neuschwanstein Castle (Fall Marienbrücke View)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Fall.jpg',
 				image_alt:
@@ -3231,7 +3231,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Neuschwanstein Castle\nBalcony View of Alpsee',
+				attraction: 'Neuschwanstein Castle Balcony View of Alpsee',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Balcony-Alpsee-Lake-View.jpg',
 				image_alt:
@@ -3247,7 +3247,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Castles & Alpsee seen from\nTegelbergbahn Cable Car',
+				attraction: 'Castles & Alpsee seen from Tegelbergbahn Cable Car',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Fussen-Tegelbergbahn-View-of-Schloss-Neuschwanstein-and-Hohenschwangau-Castles-2.jpg',
 				image_alt:
@@ -3313,7 +3313,7 @@ export const itinerarySections = {
 		itinerary_guide_tabs: null,
 		attractions: [
 			{
-				attraction: 'Heidelberg Old Town\n(Philosopher’s Walk View)',
+				attraction: 'Heidelberg Old Town (Philosopher’s Walk View)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Heidelberg-Philosophengaerchen-Philosophers-Walk-Altstadt-Old-Town-Overlook.jpg',
 				image_alt:
@@ -3328,7 +3328,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Alte Brücke Bridge\n(Night)',
+				attraction: 'Alte Brücke Bridge (Night)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Heidelberg-Alte-Bruecke-Old-Bridge-Heidelberg-Night.jpg',
 				image_alt:
@@ -3358,7 +3358,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Otteinrich Building\n(Heidelberg Palace)',
+				attraction: 'Otteinrich Building (Heidelberg Palace)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Heidelberg-Schloss-Heidelberg-Castle-Ottheinrich-Building-Facade.jpg',
 				image_alt:
@@ -3462,7 +3462,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Olympiaberg Hill\n(Olympic Park)',
+				attraction: 'Olympiaberg Hill (Olympic Park)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Munich-Olympic-Park-Olympiaberg-Hill-Overlook.jpg',
 				image_alt:
@@ -3493,7 +3493,7 @@ export const itinerarySections = {
 		itinerary_guide_tabs: null,
 		attractions: [
 			{
-				attraction: 'Burg Rheinstein Castle\n(Trechtingshausen)',
+				attraction: 'Burg Rheinstein Castle (Trechtingshausen)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Trechtingshausen-Burg-Rheinstein-Castle.jpg',
 				image_alt:
@@ -3513,7 +3513,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Postenturm Tower View\n(Bacharach)',
+				attraction: 'Postenturm Tower View (Bacharach)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Postenturm-Tower-View.jpg',
 				image_alt:
@@ -3530,7 +3530,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Pfalzgrafenstein & Gutenfels\nCastles (Kaub)',
+				attraction: 'Pfalzgrafenstein & Gutenfels Castles (Kaub)',
 				image_url:
 					'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Kaub-Burg-Pfalzgrafenstein-Castle-and-Burg-Gutenfels-Castle.jpg',
 				image_alt:
@@ -3972,7 +3972,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Ring of Kerry Lookout\n(Balleen)',
+				attraction: 'Ring of Kerry Lookout (Balleen)',
 				image_url:
 					'https://www.travelimager.com/images/ireland/Ireland-Ring-of-Kerry-Balleen-Ring-of-Kerry-Lookout.jpg',
 				image_alt:
@@ -3990,7 +3990,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: "St. Fionan's Monastery\n(Great Skellig Island)",
+				attraction: "St. Fionan's Monastery (Great Skellig Island)",
 				image_url:
 					'https://www.travelimager.com/images/ireland/Ireland-Ring-of-Kerry-Great-Skellig-Michael-Island-St-Fionans-Monastery.jpg',
 				image_alt:
@@ -6434,7 +6434,7 @@ export const itinerarySections = {
 				id: 'sintra-7',
 				carouselId: 'castle-of-the-moors',
 				itineraryCarousel: 'sintra-portugal',
-				attraction: `Castle of the Moors\nMedieval Walls`,
+				attraction: `Castle of the Moors Medieval Walls`,
 				image_url:
 					'https://www.travelimager.com/images/portugal/Portugal-Sintra-Castle-of-the-Moors-View-of-Hilltop-Medieval-Walls-and-Towers.jpg',
 				image_alt:
@@ -6469,7 +6469,7 @@ export const itinerarySections = {
 				id: 'sintra-4',
 				carouselId: 'sintra-national-palace-and-quinta-da-regaleira',
 				itineraryCarousel: 'sintra-portugal',
-				attraction: 'Iniciatic Well\n(Quinta da Regaleira)',
+				attraction: 'Iniciatic Well (Quinta da Regaleira)',
 				image_url:
 					'https://www.travelimager.com/images/portugal/Portugal-Sintra-Quinta-da-Regaleira-Iniciatic-Well.jpg',
 				image_alt:
@@ -7295,7 +7295,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'La Sagrada Familia\nBasilica (Exterior)',
+				attraction: 'La Sagrada Familia Basilica (Exterior)',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Barcelona-La-Sagrada-Familia-Basilica-Exterior-1.jpg',
 				image_alt:
@@ -7309,7 +7309,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Palau Nacional Palace &\nArt Museum',
+				attraction: 'Palau Nacional Palace & Art Museum',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Barcelona-Palau-Nacional-National-Palace-Museu-Nacional-dArt-de-Catalunya-Museum.jpg',
 				image_alt:
@@ -7667,7 +7667,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Patio de la Acequia\n(Generalife Gardens)',
+				attraction: 'Patio de la Acequia (Generalife Gardens)',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Granada-Alhambra-Generalife-Gardens-Patio-de-la-Acequia.jpg',
 				image_alt:
@@ -7733,7 +7733,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Patio de la Sultana\n(Generalife Gardens)',
+				attraction: 'Patio de la Sultana (Generalife Gardens)',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Granada-Alhambra-Generalife-Gardens-Patio-de-la-Sultana.jpg',
 				image_alt:
@@ -8252,7 +8252,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Royal Alcazar of Seville\n(Patio)',
+				attraction: 'Royal Alcazar of Seville (Patio)',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Seville-Real-Alcazar-de-Sevilla-Royal-Alcazar-Patio-1.jpg',
 				image_alt:
@@ -8551,7 +8551,7 @@ export const itinerarySections = {
 		itinerary_guide_tabs: null,
 		attractions: [
 			{
-				attraction: 'Basilica de Nuestro\nSenora del Pilar',
+				attraction: 'Basilica de Nuestro Senora del Pilar',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Zaragoza-Basilica-de-Nuestra-Senora-del-Pilar.jpg',
 				image_alt:
@@ -8601,7 +8601,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Hispanidad Fountain &\nSan Pablo Church',
+				attraction: 'Hispanidad Fountain & San Pablo Church',
 				image_url:
 					'https://www.travelimager.com/images/spain/Spain-Zaragoza-Plaza-del-Pilar-Fuente-de-la-Hispanidad-Fountain-1.jpg',
 				image_alt:
@@ -9249,7 +9249,7 @@ export const itinerarySections = {
 				id: 'flagstaff-2',
 				carouselId: 'flagstaff',
 				itineraryCarousel: null,
-				attraction: 'Lowell Observatory\n(Pluto Discovery)',
+				attraction: 'Lowell Observatory (Pluto Discovery)',
 				image_url:
 					'https://www.travelimager.com/images/arizona/Arizona-Flagstaff-Lowell-Observatory.jpg',
 				image_alt:
@@ -9267,7 +9267,7 @@ export const itinerarySections = {
 				id: 'flagstaff-6',
 				carouselId: 'greater-flagstaff',
 				itineraryCarousel: null,
-				attraction: 'Sunset Crater Volcano\nNational Monument',
+				attraction: 'Sunset Crater Volcano National Monument',
 				image_url:
 					'https://www.travelimager.com/images/arizona/Arizona-Flagstaff-Sunset-Crater-Volcano-National-Monument.jpg',
 				image_alt:
@@ -10784,7 +10784,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Zuma Beach\n(Malibu)',
+				attraction: 'Zuma Beach (Malibu)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Los-Angeles-Malibu-Zuma-Beach-and-Cliffs.jpg',
 				image_alt:
@@ -11097,7 +11097,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Russian Gulch Bridge\n(Mendocino)',
+				attraction: 'Russian Gulch Bridge (Mendocino)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Lower-Northern-Coast-Russian-Gulch-Bridge-Viewpoint.jpg',
 				image_alt:
@@ -11162,7 +11162,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Glass Beach\n(Fort Bragg)',
+				attraction: 'Glass Beach (Fort Bragg)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Lower-Northern-Coast-Glass-Beach.jpg',
 				image_alt:
@@ -11217,7 +11217,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Russian Gulch Bridge\n(Mendocino)',
+				attraction: 'Russian Gulch Bridge (Mendocino)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Lower-Northern-Coast-Russian-Gulch-Bridge-Viewpoint.jpg',
 				image_alt:
@@ -11282,7 +11282,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Glass Beach\n(Fort Bragg)',
+				attraction: 'Glass Beach (Fort Bragg)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Lower-Northern-Coast-Glass-Beach.jpg',
 				image_alt:
@@ -12196,7 +12196,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Lady Bird Johnson Grove Trail\n(Prairie Creek)',
+				attraction: 'Lady Bird Johnson Grove Trail (Prairie Creek)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Lady-Bird-Johnson-Grove-Trail.jpg',
 				image_alt:
@@ -12212,7 +12212,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Battery Point Lighthouse\n(Crescent City)',
+				attraction: 'Battery Point Lighthouse (Crescent City)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Battery-Point-Lighthouse.jpg',
 				image_alt:
@@ -12228,7 +12228,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Avenue of the Giants\n(Redwoods National Park)',
+				attraction: 'Avenue of the Giants (Redwoods National Park)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Avenue-of-the-Giants.jpg',
 				image_alt:
@@ -12261,7 +12261,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Simpson Reed Grove Trail\n(Jedidiah Smith)',
+				attraction: 'Simpson Reed Grove Trail (Jedidiah Smith)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Simpson-Reed-Grove-Trail.jpg',
 				image_alt:
@@ -12278,7 +12278,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Fern Canyon Trail\n(Prairie Creek)',
+				attraction: 'Fern Canyon Trail (Prairie Creek)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Fern-Canyon.jpg',
 				image_alt:
@@ -12318,7 +12318,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Lady Bird Johnson Grove Trail\n(Prairie Creek)',
+				attraction: 'Lady Bird Johnson Grove Trail (Prairie Creek)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Lady-Bird-Johnson-Grove-Trail.jpg',
 				image_alt:
@@ -12334,7 +12334,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Battery Point Lighthouse\n(Crescent City)',
+				attraction: 'Battery Point Lighthouse (Crescent City)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Battery-Point-Lighthouse.jpg',
 				image_alt:
@@ -12350,7 +12350,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Avenue of the Giants\n(Redwoods National Park)',
+				attraction: 'Avenue of the Giants (Redwoods National Park)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Avenue-of-the-Giants.jpg',
 				image_alt:
@@ -12383,7 +12383,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Simpson Reed Grove Trail\n(Jedidiah Smith)',
+				attraction: 'Simpson Reed Grove Trail (Jedidiah Smith)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Simpson-Reed-Grove-Trail.jpg',
 				image_alt:
@@ -12400,7 +12400,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Fern Canyon Trail\n(Prairie Creek)',
+				attraction: 'Fern Canyon Trail (Prairie Creek)',
 				image_url:
 					'https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Fern-Canyon.jpg',
 				image_alt:
@@ -12630,7 +12630,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Glenwood Caverns\nAdventure Park View',
+				attraction: 'Glenwood Caverns Adventure Park View',
 				image_url:
 					'https://www.travelimager.com/images/colorado/Colorado-White-River-National-Forest-Glenwood-Sprins-Glenwood-Caverns-Adventure-Park-View.jpg',
 				image_alt:
@@ -13418,7 +13418,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Mt. Herard & Wetlands\n(Great Sand Dunes)',
+				attraction: 'Mt. Herard & Wetlands (Great Sand Dunes)',
 				image_url:
 					'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Wetlands-Cranes-Sand-Dunes-and-Mount-Herard-Sunset-Golden-Hour.jpg',
 				image_alt:
@@ -13433,7 +13433,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Medano Creek\n(Great Sand Dunes)',
+				attraction: 'Medano Creek (Great Sand Dunes)',
 				image_url:
 					'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Sand-Dunes-Medano-Creek-and-Mount-Herard.jpg',
 				image_alt:
@@ -13801,7 +13801,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Big Room Stalagmites\n(Carlsbad Caverns)',
+				attraction: 'Big Room Stalagmites (Carlsbad Caverns)',
 				image_url:
 					'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Carlsbad-Cavern-Big-Room-Stalagmite-Ceilings.jpg',
 				image_alt:
@@ -13817,7 +13817,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Natural Entrance Cavern\nTrail & Bats',
+				attraction: 'Natural Entrance Cavern Trail & Bats',
 				image_url:
 					'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Natural-Entrance-Cave-and-Bats-Flying.jpg',
 				image_alt:
@@ -14304,7 +14304,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: 'Garfield Peak View\n(Winter)',
+				attraction: 'Garfield Peak View (Winter)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Crater-Lake-National-Park-Wizard-Island-Winter.jpg',
 				image_alt:
@@ -14366,7 +14366,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Toketee Falls\n(Umpqua National Forest)',
+				attraction: 'Toketee Falls (Umpqua National Forest)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Crater-Lake-National-Park-Toketee-Falls.jpg',
 				image_alt:
@@ -14381,7 +14381,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Clearwater Falls\n(Umpqua National Forest)',
+				attraction: 'Clearwater Falls (Umpqua National Forest)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Crater-Lake-National-Park-Clearwater-Falls.jpg',
 				image_alt:
@@ -14479,7 +14479,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Ecola Point\n(Ecola State Park)',
+				attraction: 'Ecola Point (Ecola State Park)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg',
 				image_alt:
@@ -14611,7 +14611,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Ecola Point\n(Ecola State Park)',
+				attraction: 'Ecola Point (Ecola State Park)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg',
 				image_alt:
@@ -14873,7 +14873,7 @@ export const itinerarySections = {
 		],
 		attractions: [
 			{
-				attraction: "Thor's Well\n(Cape Perpetua)",
+				attraction: "Thor's Well (Cape Perpetua)",
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Southern-Coast-Cape-Perpetua-Thors-Well.jpg',
 				image_alt:
@@ -14888,7 +14888,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Secret Beach\n(Samuel H. Boardman)',
+				attraction: 'Secret Beach (Samuel H. Boardman)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Southern-Coast-Secret-Beach.jpg',
 				image_alt:
@@ -14904,7 +14904,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Cape Creek Bridge\n(Heceta Head)',
+				attraction: 'Cape Creek Bridge (Heceta Head)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Southern-Coast-Cape-Creek-Bridge.jpg',
 				image_alt:
@@ -14920,7 +14920,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Natural Bridges Trail\n(Samuel H. Boardman)',
+				attraction: 'Natural Bridges Trail (Samuel H. Boardman)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Southern-Coast-Natural-Bridges-Cove.jpg',
 				image_alt:
@@ -15034,7 +15034,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Ecola Point\n(Ecola State Park)',
+				attraction: 'Ecola Point (Ecola State Park)',
 				image_url:
 					'https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg',
 				image_alt:
@@ -16541,7 +16541,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Iceberg Lake & Mt. Baker\n(Chain Lakes Loop Trail)',
+				attraction: 'Iceberg Lake & Mt. Baker (Chain Lakes Loop Trail)',
 				image_url:
 					'https://www.travelimager.com/images/washington/Washington-Mount-Baker-Area-Chain-Lakes-Trail-Ptarmigan-Ridge-Iceberg-Lake.jpg',
 				image_alt:
@@ -16557,7 +16557,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Doubtful Lake\n(Maple Pass View)',
+				attraction: 'Doubtful Lake (Maple Pass View)',
 				image_url:
 					'https://www.travelimager.com/images/washington/Washington-North-Cascades-National-Park-Cascade-Pass-Trail-View-over-Doubtful-Lake.jpg',
 				image_alt:
@@ -17193,7 +17193,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Yellowstone Falls\n(Artist Point)',
+				attraction: 'Yellowstone Falls (Artist Point)',
 				image_url:
 					'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Yellowstone-Falls-Artist-Point.jpg',
 				image_alt:
@@ -17207,7 +17207,7 @@ export const itinerarySections = {
 			},
 
 			{
-				attraction: 'Abyss Pool\n(West Thumb Geyser Basin)',
+				attraction: 'Abyss Pool (West Thumb Geyser Basin)',
 				image_url:
 					'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-West-Thumb-Geyser-Basin-Abyss-Pool.jpg',
 				image_alt:

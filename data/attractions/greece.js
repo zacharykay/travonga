@@ -318,7 +318,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Stoa of Attalos\n(Interior)',
+					attraction: 'Stoa of Attalos (Interior)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Athens-Stoa-of-Attalos-Ancient-Marketplace-Interior-Columns.jpg',
 					image_alt:
@@ -577,7 +577,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Archaeological Site Heraion\n(Perachora)',
+					attraction: 'Archaeological Site Heraion (Perachora)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Peloponnese-Peninsula-Cape-Ireon-Heraion-of-Perachora-Archaeological-Site.jpg',
 					image_alt:
@@ -2797,7 +2797,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Ancient Kameiros Ruins\n(Ocean View)',
+					attraction: 'Ancient Kameiros Ruins (Ocean View)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Rhodes-Kameiros-Ancient-Kamiros-Ocean-View.jpg',
 					image_alt:
@@ -2847,7 +2847,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Panorama Viewpoint\n(Ataviros)',
+					attraction: 'Panorama Viewpoint (Ataviros)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Rhodes-Ataviros-Panorama-Viewpoint.jpg',
 					image_alt:
@@ -2863,7 +2863,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medieval Castle\n(Halki Island)',
+					attraction: 'Medieval Castle (Halki Island)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Chalki-Halki-Chorio-Medieval-Castle.jpg',
 					image_alt:
@@ -2880,7 +2880,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'View from Medieval Castle\n(Halki Island)',
+					attraction: 'View from Medieval Castle (Halki Island)',
 					image_url:
 						'https://www.travelimager.com/images/greece/Greece-Chalki-Halki-Chorio-Medieval-Castle-View.jpg',
 					image_alt:

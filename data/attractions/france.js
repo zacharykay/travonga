@@ -1591,7 +1591,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Cite de Carcassonne\n(Wide View)',
+					attraction: 'Cite de Carcassonne (Wide View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Wide-View.jpg',
 					image_alt:
@@ -1604,7 +1604,7 @@ export const attractionGuides = [
 					cc_license: null
 				},
 				{
-					attraction: 'Cite de Carcassonne\n(Aerial View)',
+					attraction: 'Cite de Carcassonne (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Aerial-View.jpg',
 					image_alt:
@@ -1636,7 +1636,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Chateau Comtal\n(Carcassonne)',
+					attraction: 'Chateau Comtal (Carcassonne)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Chateau-de-Comtal.jpg',
 					image_alt:
@@ -1650,7 +1650,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medieval Walls\n(Carcassonne)',
+					attraction: 'Medieval Walls (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Medieval-Walls-Pathway.jpg',
 					image_alt:
@@ -1667,7 +1667,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Porte Narbonnaise\n(Carcassonne)',
+					attraction: 'Porte Narbonnaise (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-Narbonnaise-Gate.jpg',
 					image_alt:
@@ -1684,7 +1684,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Porte de l'Aude\n(Carcassonne)",
+					attraction: "Porte de l'Aude (Carcassonne)",
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-de-lAude-Aude-Gate.jpg',
 					image_alt:
@@ -1870,7 +1870,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Cite de Carcassonne\n(Wide View)',
+					attraction: 'Cite de Carcassonne (Wide View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Wide-View.jpg',
 					image_alt:
@@ -1884,7 +1884,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Cite de Carcassonne\n(Aerial View)',
+					attraction: 'Cite de Carcassonne (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Aerial-View.jpg',
 					image_alt:
@@ -1917,7 +1917,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Chateau Comtal\n(Carcassonne)',
+					attraction: 'Chateau Comtal (Carcassonne)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Chateau-de-Comtal.jpg',
 					image_alt:
@@ -1931,7 +1931,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medieval Walls\n(Carcassonne)',
+					attraction: 'Medieval Walls (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Medieval-Walls-Pathway.jpg',
 					image_alt:
@@ -1948,7 +1948,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Porte Narbonnaise\n(Carcassonne)',
+					attraction: 'Porte Narbonnaise (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-Narbonnaise-Gate.jpg',
 					image_alt:
@@ -1965,7 +1965,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Porte de l'Aude\n(Carcassonne)",
+					attraction: "Porte de l'Aude (Carcassonne)",
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-de-lAude-Aude-Gate.jpg',
 					image_alt:
@@ -2056,7 +2056,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Fishmonger District\n(La Petite Venise)',
+					attraction: 'Fishmonger District (La Petite Venise)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Colmar-La-Petite-Venise-Fishmonger-District-Rue-des-Escoles-Bridge-View.jpg',
 					image_alt:
@@ -2071,7 +2071,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 4.0'
 				},
 				{
-					attraction: 'Rue Turenne View\n(La Petite Venise)',
+					attraction: 'Rue Turenne View (La Petite Venise)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Colmar-La-Petite-Venise-Rue-Turenne-Bridge-View.jpg',
 					image_alt:
@@ -2138,7 +2138,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Rue des Marchands\n(Merchants Street)',
+					attraction: 'Rue des Marchands (Merchants Street)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Colmar-Rue-des-Marchands-Merchants-Shopping-Street.jpg',
 					image_alt:
@@ -5773,7 +5773,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Cite de Carcassonne\n(Wide View)',
+					attraction: 'Cite de Carcassonne (Wide View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Wide-View.jpg',
 					image_alt:
@@ -5787,7 +5787,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Cite de Carcassonne\n(Aerial View)',
+					attraction: 'Cite de Carcassonne (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Aerial-View.jpg',
 					image_alt:
@@ -5820,7 +5820,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Chateau Comtal\n(Carcassonne)',
+					attraction: 'Chateau Comtal (Carcassonne)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Chateau-de-Comtal.jpg',
 					image_alt:
@@ -5834,7 +5834,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medieval Walls\n(Carcassonne)',
+					attraction: 'Medieval Walls (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Medieval-Walls-Pathway.jpg',
 					image_alt:
@@ -5851,7 +5851,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Porte Narbonnaise\n(Carcassonne)',
+					attraction: 'Porte Narbonnaise (Carcassonne)',
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-Narbonnaise-Gate.jpg',
 					image_alt:
@@ -5868,7 +5868,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Porte de l'Aude\n(Carcassonne)",
+					attraction: "Porte de l'Aude (Carcassonne)",
 					image_url:
 						' https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Porte-de-lAude-Aude-Gate.jpg',
 					image_alt:
@@ -6433,7 +6433,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Pont Saint-Martin View\n(Petite France)',
+					attraction: 'Pont Saint-Martin View (Petite France)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Pont-Saint-Martin-Bridge-View.jpg',
 					image_alt:
@@ -6447,7 +6447,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 2.0'
 				},
 				{
-					attraction: 'Place Benjamin Zix View\n(Petite France)',
+					attraction: 'Place Benjamin Zix View (Petite France)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Place-Benjamin-Zix-View.jpg',
 					image_alt:
@@ -6556,7 +6556,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pont du Corbeau View\n(Grand Ile)',
+					attraction: 'Pont du Corbeau View (Grand Ile)',
 					image_url:
 						'https://www.travelimager.com/images/france/France-Strasbourg-Grand-Ile-Pont-du-Corbeau-View.jpg',
 					image_alt:

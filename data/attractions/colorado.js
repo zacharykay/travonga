@@ -297,7 +297,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Glenwood Caverns\nAdventure Park View',
+					attraction: 'Glenwood Caverns Adventure Park View',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-White-River-National-Forest-Glenwood-Sprins-Glenwood-Caverns-Adventure-Park-View.jpg',
 					image_alt:
@@ -313,7 +313,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Glenwood Caverns\nAdventure Park Cave',
+					attraction: 'Glenwood Caverns Adventure Park Cave',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-White-River-National-Forest-Glenwood-Sprins-Glenwood-Caverns-Adventure-Park-Cave.jpg',
 					image_alt:
@@ -598,7 +598,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Million Dollar Highway\nOuray View',
+					attraction: 'Million Dollar Highway Ouray View',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Ouray-Town-Viewed-from-Million-Dollar-Highway.jpg',
 					image_alt:
@@ -2721,7 +2721,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Mt. Herard & Wetlands\n(Great Sand Dunes)',
+					attraction: 'Mt. Herard & Wetlands (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Wetlands-Cranes-Sand-Dunes-and-Mount-Herard-Sunset-Golden-Hour.jpg',
 					image_alt:
@@ -2735,7 +2735,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medano Creek\n(Great Sand Dunes)',
+					attraction: 'Medano Creek (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Medano-Creek-Sand-Dunes-and-Mount-Herard.jpg',
 					image_alt:
@@ -2751,7 +2751,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medano Creek\n(Great Sand Dunes)',
+					attraction: 'Medano Creek (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Sand-Dunes-Medano-Creek-and-Mount-Herard.jpg',
 					image_alt:
@@ -2782,7 +2782,7 @@ export const attractionGuides = [
 			],
 			carousel_3: [
 				{
-					attraction: 'Hlakwima South House\n(Taos Pueblo)',
+					attraction: 'Hlakwima South House (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-Hlaukwima-South-Adobe-House.jpg',
 					image_alt:
@@ -2798,7 +2798,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Hlauuma North House\n(Taos Pueblo)',
+					attraction: 'Hlauuma North House (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-Hlauuma-North-Adobe-House-and-Rio-Pueblo-de-Taos-River.jpg',
 					image_alt:
@@ -2815,7 +2815,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'San Geronimo Mission Ruins\n(Taos Pueblo)',
+					attraction: 'San Geronimo Mission Ruins (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-San-Geronimo-Mission-Church-Ruins-and-Cemetery.jpg',
 					image_alt:
@@ -2832,7 +2832,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Taos Plaza\n(Downtown Historic District)',
+					attraction: 'Taos Plaza (Downtown Historic District)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Downtown-Taos-Historic-District-Taos-Plaza.jpg',
 					image_alt:
@@ -3006,7 +3006,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Mt. Herard & Wetlands\n(Great Sand Dunes)',
+					attraction: 'Mt. Herard & Wetlands (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Wetlands-Cranes-Sand-Dunes-and-Mount-Herard-Sunset-Golden-Hour.jpg',
 					image_alt:
@@ -3020,7 +3020,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medano Creek\n(Great Sand Dunes)',
+					attraction: 'Medano Creek (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Medano-Creek-Sand-Dunes-and-Mount-Herard.jpg',
 					image_alt:
@@ -3036,7 +3036,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medano Creek\n(Great Sand Dunes)',
+					attraction: 'Medano Creek (Great Sand Dunes)',
 					image_url:
 						'https://www.travelimager.com/images/colorado/Colorado-Great-Sand-Dunes-National-Park-Sand-Dunes-Medano-Creek-and-Mount-Herard.jpg',
 					image_alt:

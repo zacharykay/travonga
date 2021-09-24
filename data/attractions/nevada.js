@@ -71,7 +71,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: 'Miller Point View\n(Cathedral Gorge)',
+					attraction: 'Miller Point View (Cathedral Gorge)',
 					image_url:
 						'https://www.travelimager.com/images/nevada/Nevada-Cathedral-Gorge-State-Park-Miller-Point-View.jpg',
 					image_alt:
@@ -86,7 +86,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: 'Juniper Loop Trail\n(Cathedral Gorge)',
+					attraction: 'Juniper Loop Trail (Cathedral Gorge)',
 					image_url:
 						'https://www.travelimager.com/images/nevada/Nevada-Cathedral-Gorge-State-Park-Juniper-Draw-Loop-Trail.jpg',
 					image_alt:
@@ -102,7 +102,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Juniper Loop Cliffs\n(Cathedral Gorge)',
+					attraction: 'Juniper Loop Cliffs (Cathedral Gorge)',
 					image_url:
 						'https://www.travelimager.com/images/nevada/Nevada-Cathedral-Gorge-State-Park-Juniper-Draw-Loop-Cliffs-Sunset.jpg',
 					image_alt:
@@ -118,7 +118,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Moon Caves Slot Canyons\n(Cathedral Gorge)',
+					attraction: 'Moon Caves Slot Canyons (Cathedral Gorge)',
 					image_url:
 						'https://www.travelimager.com/images/nevada/Nevada-Cathedral-Gorge-State-Park-Moon-Caves-Slot-Canyons-Looking-Up.jpg',
 					image_alt:

@@ -601,7 +601,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-ND 2.0'
 				},
 				{
-					attraction: 'Great Fountain Geyser\n(Firehole Drive)',
+					attraction: 'Great Fountain Geyser (Firehole Drive)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Firehole-Lake-Drive-Great-Fountain-Geyser.jpg',
 					image_alt:
@@ -661,7 +661,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Imperial Geyser\n(Fairy Falls Trail)',
+					attraction: 'Imperial Geyser (Fairy Falls Trail)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Imperial-Geyser.jpg',
 					image_alt:
@@ -724,7 +724,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Emerald Pool\n(Black Sand Basin)',
+					attraction: 'Emerald Pool (Black Sand Basin)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Black-Sand-Basin-Emerald-Pool.jpg',
 					image_alt:
@@ -804,7 +804,7 @@ export const attractionGuides = [
 			],
 			carousel_4: [
 				{
-					attraction: 'Abyss Pool\n(West Thumb Geyser Basin)',
+					attraction: 'Abyss Pool (West Thumb Geyser Basin)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-West-Thumb-Geyser-Basin-Abyss-Pool.jpg',
 					image_alt:
@@ -878,7 +878,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Red Rock Point\n(Lower Lookout Point)',
+					attraction: 'Red Rock Point (Lower Lookout Point)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Yellowstone-Falls-Red-Rock-Point-Lower-Lookout.jpg',
 					image_alt:
@@ -940,7 +940,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Porcelain Basin\n(Norris Geyser Basin)',
+					attraction: 'Porcelain Basin (Norris Geyser Basin)',
 					image_url:
 						'https://www.travelimager.com/images/wyoming/Wyoming-Yellowstone-National-Park-Norris-Geyser-Basin-Norris-Porcelain-Basin.jpg',
 					image_alt:

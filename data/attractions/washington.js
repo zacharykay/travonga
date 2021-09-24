@@ -167,7 +167,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Iceberg Lake & Mt. Baker\n(Chain Lakes Loop Trail)',
+					attraction: 'Iceberg Lake & Mt. Baker (Chain Lakes Loop Trail)',
 					image_url:
 						'https://www.travelimager.com/images/washington/Washington-Mount-Baker-Area-Chain-Lakes-Trail-Ptarmigan-Ridge-Iceberg-Lake.jpg',
 					image_alt:
@@ -262,7 +262,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Cascade Pass Trail\n(Valley View)',
+					attraction: 'Cascade Pass Trail (Valley View)',
 					image_url:
 						'https://www.travelimager.com/images/washington/Washington-North-Cascades-National-Park-Cascade-Pass-Trail-Valley.jpg',
 					image_alt:
@@ -277,7 +277,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Cascade Pass Trail\n(Mountains View)',
+					attraction: 'Cascade Pass Trail (Mountains View)',
 					image_url:
 						'https://www.travelimager.com/images/washington/Washington-North-Cascades-National-Park-Cascade-Pass-Trail-Mountains-View.jpg',
 					image_alt:
@@ -292,7 +292,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Doubtful Lake\n(Cascade Pass View)',
+					attraction: 'Doubtful Lake (Cascade Pass View)',
 					image_url:
 						'https://www.travelimager.com/images/washington/Washington-North-Cascades-National-Park-Cascade-Pass-View-of-Doubtful-Lake.jpg',
 					image_alt:
@@ -308,7 +308,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Doubtful Lake\n(Maple Pass View)',
+					attraction: 'Doubtful Lake (Maple Pass View)',
 					image_url:
 						'https://www.travelimager.com/images/washington/Washington-North-Cascades-National-Park-Cascade-Pass-Trail-View-over-Doubtful-Lake.jpg',
 					image_alt:

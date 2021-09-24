@@ -267,7 +267,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: 'Natural Entrance Cavern\nBat Flight Amphitheater',
+					attraction: 'Natural Entrance Cavern Bat Flight Amphitheater',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Natural-Entrance-and-Bat-Flight-Amphitheater.jpg',
 					image_alt:
@@ -285,7 +285,7 @@ export const attractionGuides = [
 					cc_license_gnu: 'GNU 1.2'
 				},
 				{
-					attraction: 'Natural Entrance Cavern\nSwitchback Trail',
+					attraction: 'Natural Entrance Cavern Switchback Trail',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Natural-Entrance-Trail-Switchbacks.jpg',
 					image_alt:
@@ -304,7 +304,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Natural Entrance Cavern\nTrail & Bats',
+					attraction: 'Natural Entrance Cavern Trail & Bats',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Natural-Entrance-Cave-and-Bats-Flying.jpg',
 					image_alt:
@@ -317,7 +317,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Big Room Stalagmites\n(Carlsbad Caverns)',
+					attraction: 'Big Room Stalagmites (Carlsbad Caverns)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Carlsbad-Cavern-Big-Room-Stalagmite-Ceilings.jpg',
 					image_alt:
@@ -333,7 +333,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Big Room Walkway\n(Carlsbad Caverns)',
+					attraction: 'Big Room Walkway (Carlsbad Caverns)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Southern-New-Mexico-Carlsbad-Caverns-Big-Room.jpg',
 					image_alt:
@@ -348,7 +348,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "King's Palace Cavern\n(Ranger Tour)",
+					attraction: "King's Palace Cavern (Ranger Tour)",
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Carlsbad-Caverns-National-Park-Kings-Palace-Cave-Stalagmite-Ceiling.jpg',
 					image_alt:
@@ -363,7 +363,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Devil's Hall Trail\n(Guadalupe Mountains)",
+					attraction: "Devil's Hall Trail (Guadalupe Mountains)",
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Guadalupe-Mountains-National-Park-Devils-Hall-Trail.jpg',
 					image_alt:
@@ -742,7 +742,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Hlakwima South House\n(Taos Pueblo)',
+					attraction: 'Hlakwima South House (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-Hlaukwima-South-Adobe-House.jpg',
 					image_alt:
@@ -757,7 +757,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 2.0'
 				},
 				{
-					attraction: 'Hlauuma North House\n(Taos Pueblo)',
+					attraction: 'Hlauuma North House (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-Hlauuma-North-Adobe-House-and-Rio-Pueblo-de-Taos-River.jpg',
 					image_alt:
@@ -773,7 +773,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 4.0'
 				},
 				{
-					attraction: 'San Geronimo Mission Ruins\n(Taos Pueblo)',
+					attraction: 'San Geronimo Mission Ruins (Taos Pueblo)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Taos-Pueblo-San-Geronimo-Mission-Church-Ruins-and-Cemetery.jpg',
 					image_alt:
@@ -790,7 +790,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Taos Plaza\n(Downtown Historic District)',
+					attraction: 'Taos Plaza (Downtown Historic District)',
 					image_url:
 						'https://www.travelimager.com/images/new-mexico/New-Mexico-Taos-Downtown-Taos-Historic-District-Taos-Plaza.jpg',
 					image_alt:

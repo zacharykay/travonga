@@ -140,7 +140,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 2.0'
 				},
 				{
-					attraction: 'Brandenburg Gate\n(Night)',
+					attraction: 'Brandenburg Gate (Night)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Brandenburg-Gate-Night.jpg',
 					image_alt:
@@ -252,7 +252,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Konzerthaus Berlin\n(Gendarmenmarkt Square)',
+					attraction: 'Konzerthaus Berlin (Gendarmenmarkt Square)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Gendarmenmarkt-Square-Konzerthaus.jpg',
 					image_alt:
@@ -268,7 +268,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "St. Hedwig's Cathedral\n(Bebelplatz)",
+					attraction: "St. Hedwig's Cathedral (Bebelplatz)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Bebelplatz-Hedwigskathedrale-St-Hedwigs-Cathedral-Exterior.jpg',
 					image_alt:
@@ -363,7 +363,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Babylonian Ishtar Gate\nPergamon Museum',
+					attraction: 'Babylonian Ishtar Gate Pergamon Museum',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Pergamon-Museum-Babylon-Ishtar-Gate.jpg',
 					image_alt:
@@ -380,7 +380,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Market Gate of Miletus\nPergamon Museum',
+					attraction: 'Market Gate of Miletus Pergamon Museum',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Pergamon-Museum-Interior-Market-Gate-of-Miletus.jpg',
 					image_alt:
@@ -396,7 +396,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pergamon Altar\nPergamon Museum',
+					attraction: 'Pergamon Altar Pergamon Museum',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Pergamon-Museum-Altar.jpg',
 					image_alt:
@@ -463,7 +463,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Berlin Story Museum\n(Anhalter Bunker)',
+					attraction: 'Berlin Story Museum (Anhalter Bunker)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Anhalter-Bunker-Berlin-Story-Museum-Exterior-Night.jpg',
 					image_alt:
@@ -513,7 +513,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'East Side Gallery\nBerlin Wall',
+					attraction: 'East Side Gallery Berlin Wall',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Berlin-Wall-East-Side.jpg',
 					image_alt:
@@ -528,7 +528,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Victory Column Monument\n(Tiergarten Park)',
+					attraction: 'Victory Column Monument (Tiergarten Park)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Victory-Column-Monument.jpg',
 					image_alt:
@@ -548,7 +548,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Zoo Berlin\n(Tiergarten Park)',
+					attraction: 'Zoo Berlin (Tiergarten Park)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Zoo-Berlin-Giraffenhaus-Giraffe-Exhibit-House.jpg',
 					image_alt:
@@ -565,7 +565,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Kaiser Wilhelm\nMemorial Church Ruins',
+					attraction: 'Kaiser Wilhelm Memorial Church Ruins',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Kaiser-Wilhem-Memorial-Church-Ruins.jpg',
 					image_alt:
@@ -599,7 +599,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schloss Charlottenburg Palace\nFountain',
+					attraction: 'Schloss Charlottenburg Palace Fountain',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Schloss-Charlottenburg-Palace-Fountain.jpg',
 					image_alt:
@@ -616,7 +616,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Soviet War Memorial\n(Treptower Park)',
+					attraction: 'Soviet War Memorial (Treptower Park)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Berlin-Treptower-Park-Soviet-War-Memorial.jpg',
 					image_alt:
@@ -765,7 +765,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 3.0 DE'
 				},
 				{
-					attraction: 'Cologne Cathedral\n(Night)',
+					attraction: 'Cologne Cathedral (Night)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Cologne-Cologne-Cathedral-Night.jpg',
 					image_alt:
@@ -779,7 +779,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alter Markt\n(Old Market Square)',
+					attraction: 'Alter Markt (Old Market Square)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Cologne-Alter-Markt-Market-Square.jpg',
 					image_alt:
@@ -845,7 +845,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Bonner Münster Cathedral\n(Bonn)',
+					attraction: 'Bonner Münster Cathedral (Bonn)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Bonn-Bonner-Muenster-Cathedral-Exterior.jpg',
 					image_alt:
@@ -861,7 +861,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Beethoven-Haus Museum\n(Bonn)',
+					attraction: 'Beethoven-Haus Museum (Bonn)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Bonn-Beethoven-Haus-Museum.jpg',
 					image_alt:
@@ -877,7 +877,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schloss Drachenburg Castle\n(Königswinter)',
+					attraction: 'Schloss Drachenburg Castle (Königswinter)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Cologne-Konigswinter-Schloss-Drachenburg-Castle-Exterior.jpg',
 					image_alt:
@@ -890,7 +890,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schloss Drachenburg Castle\n(Königswinter)',
+					attraction: 'Schloss Drachenburg Castle (Königswinter)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Cologne-Konigswinter-Schloss-Drachenburg-Castle-and-Town-Aerial-View-Sunset.jpg',
 					image_alt:
@@ -906,7 +906,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schloss Drachenburg Castle\n(Königswinter)',
+					attraction: 'Schloss Drachenburg Castle (Königswinter)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Cologne-Konigswinter-Schloss-Drachenburg-Castle-and-Forests-Aerial-View-Sunset.jpg',
 					image_alt:
@@ -922,7 +922,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Drachenfels Castle Ruins\n(Königswinter)',
+					attraction: 'Drachenfels Castle Ruins (Königswinter)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Cologne-Konigswinter-Burgruine-Drachenfels-Castle-Ruins.jpg',
 					image_alt:
@@ -985,7 +985,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Chapel of Charlemagne\n(Aachen Cathedral)',
+					attraction: 'Chapel of Charlemagne (Aachen Cathedral)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-North-Rhine-Westphalia-Aachen-Aachener-Dom-Cathedral-Charlemagne-Chapel-Tomb.jpg',
 					image_alt:
@@ -1001,7 +1001,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Rathaus City Hall\n(Aachen)',
+					attraction: 'Rathaus City Hall (Aachen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-North-Rhine-Westphalia-Aachen-Marktplatz-Rathaus-Aachen-City-Hall-Exterior-Night.jpg',
 					image_alt:
@@ -1134,7 +1134,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Füssen\n(Aerial View)',
+					attraction: 'Füssen (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Aerial-View.jpg',
 					image_alt:
@@ -1165,7 +1165,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 3.0'
 				},
 				{
-					attraction: 'Brotmarkt Square\n(Füssen)',
+					attraction: 'Brotmarkt Square (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Brotmarkt-Market-Square.jpg',
 					image_alt:
@@ -1184,7 +1184,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Hohes Schloss Castle\n(Füssen)',
+					attraction: 'Hohes Schloss Castle (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohes-Schloss-High-Castle.jpg',
 					image_alt:
@@ -1200,7 +1200,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Abbey of St. Mang\n(Füssen)',
+					attraction: 'Abbey of St. Mang (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Benediktinerkloster-St-Mang-Abbey-Benedictine-Monastery.jpg',
 					image_alt:
@@ -1219,7 +1219,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Lechfall Waterfall\n(Füssen)',
+					attraction: 'Lechfall Waterfall (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Lechfall-Waterfall-1.jpg',
 					image_alt:
@@ -1237,7 +1237,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Lechfall Waterfall Platform\n(Füssen)',
+					attraction: 'Lechfall Waterfall Platform (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Lechfall-Waterfall-Viewing-Platform.jpg',
 					image_alt:
@@ -1252,7 +1252,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Lechfall River Gorge\n(Füssen)',
+					attraction: 'Lechfall River Gorge (Füssen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Lechfall-Gorge.jpg',
 					image_alt:
@@ -1289,7 +1289,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alpsee Lake\n(Hohenschwangau)',
+					attraction: 'Alpsee Lake (Hohenschwangau)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Alpsee-Lake-Swans.jpg',
 					image_alt:
@@ -1305,7 +1305,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alpsee Lake\n(Hohenschwangau)',
+					attraction: 'Alpsee Lake (Hohenschwangau)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Alpsee-Lake.jpg',
 					image_alt:
@@ -1321,7 +1321,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alpsee Lake\n(Hohenschwangau)',
+					attraction: 'Alpsee Lake (Hohenschwangau)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Alpsee-Lake-and-Forests.jpg',
 					image_alt:
@@ -1337,7 +1337,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Museum of Bavarian Kings\n(Hohenschwangau)',
+					attraction: 'Museum of Bavarian Kings (Hohenschwangau)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Museum-of-the-Bavarian-Kings-Exterior.jpg',
 					image_alt:
@@ -1353,7 +1353,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Hotel Alpenrose\n(Hohenschwangau)',
+					attraction: 'Hotel Alpenrose (Hohenschwangau)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Hotel-Alpenrose.jpg',
 					image_alt:
@@ -1465,7 +1465,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\nCourtyard Entrance',
+					attraction: 'Neuschwanstein Castle Courtyard Entrance',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Courtyard-Entrance.jpg',
 					image_alt:
@@ -1479,7 +1479,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\nCourtyard Grounds',
+					attraction: 'Neuschwanstein Castle Courtyard Grounds',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Grounds.jpg',
 					image_alt:
@@ -1495,7 +1495,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\nBalcony View of Alpsee',
+					attraction: 'Neuschwanstein Castle Balcony View of Alpsee',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Balcony-Alpsee-Lake-View.jpg',
 					image_alt:
@@ -1512,7 +1512,7 @@ export const attractionGuides = [
 			],
 			carousel_5: [
 				{
-					attraction: 'Neuschwanstein Castle\nBalcony View of Alpsee',
+					attraction: 'Neuschwanstein Castle Balcony View of Alpsee',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Balcony-Alpsee-Lake-View-2.jpg',
 					image_alt:
@@ -1576,7 +1576,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\n(Spring Marienbrücke View)',
+					attraction: 'Neuschwanstein Castle (Spring Marienbrücke View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Spring.jpg',
 					image_alt:
@@ -1590,7 +1590,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\n(Summer Marienbrücke View)',
+					attraction: 'Neuschwanstein Castle (Summer Marienbrücke View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Summer.jpg',
 					image_alt:
@@ -1605,7 +1605,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neuschwanstein Castle\n(Fall Marienbrücke View)',
+					attraction: 'Neuschwanstein Castle (Fall Marienbrücke View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Fall.jpg',
 					image_alt:
@@ -1620,7 +1620,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Marienbrücke Bridge &\nNeuschwanstein Castle',
+					attraction: 'Marienbrücke Bridge & Neuschwanstein Castle',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Marienbruecke-Bridge-Neuschwanstein-Castle-View.jpg',
 					image_alt:
@@ -1637,7 +1637,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pöllat Waterfall View\nMarienbrücke Bridge',
+					attraction: 'Pöllat Waterfall View Marienbrücke Bridge',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Marienbruecke-Bridge-Waterfall-View.jpg',
 					image_alt:
@@ -1671,7 +1671,7 @@ export const attractionGuides = [
 			],
 			carousel_6: [
 				{
-					attraction: 'Tegelberg Mountain Trail View\nof Neuschwanstein Castle',
+					attraction: 'Tegelberg Mountain Trail View of Neuschwanstein Castle',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Tegelberg-Mountain-Trail-View-of-Neuschwanstein-Castle.jpg',
 					image_alt:
@@ -1687,7 +1687,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Castles & Alpsee seen from\nTegelbergbahn Cable Car',
+					attraction: 'Castles & Alpsee seen from Tegelbergbahn Cable Car',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Tegelbergbahn-View-of-Schloss-Neuschwanstein-and-Hohenschwangau-Castles.jpg',
 					image_alt:
@@ -1704,7 +1704,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Castles & Alpsee seen from\nTegelbergbahn Cable Car',
+					attraction: 'Castles & Alpsee seen from Tegelbergbahn Cable Car',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Tegelbergbahn-View-of-Schloss-Neuschwanstein-and-Hohenschwangau-Castles-2.jpg',
 					image_alt:
@@ -1735,7 +1735,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Branderschrofen Peak View\n(Tegelberg)',
+					attraction: 'Branderschrofen Peak View (Tegelberg)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Fussen-Tegelberg-Mountain-Branderschrofen-Peak-View-of-Fussen-and-Alpsee-Lake.jpg',
 					image_alt:
@@ -1847,7 +1847,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Marktplatz\n(Market Square)',
+					attraction: 'Marktplatz (Market Square)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Markt-Market-Square.jpg',
 					image_alt:
@@ -1905,7 +1905,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Otteinrich Building\n(Heidelberg Palace)',
+					attraction: 'Otteinrich Building (Heidelberg Palace)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Schloss-Heidelberg-Castle-Ottheinrich-Building-Facade.jpg',
 					image_alt:
@@ -1919,7 +1919,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Scheffelterrasse Terrace View\n(Heidelberg Palace)',
+					attraction: 'Scheffelterrasse Terrace View (Heidelberg Palace)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Schloss-Heidelberg-Castle-Altstadt-Overlook-Night.jpg',
 					image_alt:
@@ -1934,7 +1934,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Alte Brücke\n(Old Bridge)',
+					attraction: 'Alte Brücke (Old Bridge)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Alte-Bruecke-Old-Bridge-Heidelberg-Day.jpg',
 					image_alt:
@@ -1948,7 +1948,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alte Brücke Bridge\n(Night)',
+					attraction: 'Alte Brücke Bridge (Night)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Alte-Bruecke-Old-Bridge-Heidelberg-Night.jpg',
 					image_alt:
@@ -1962,7 +1962,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Brückentor City Gate\n(Alte Brücke)',
+					attraction: 'Brückentor City Gate (Alte Brücke)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-City-Gate.jpg',
 					image_alt:
@@ -1976,7 +1976,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Philosopher’s Walk / Garden\nView',
+					attraction: 'Philosopher’s Walk / Garden View',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Philosophengaerchen-Philosophers-Walk-Altstadt-Old-Town-Overlook.jpg',
 					image_alt:
@@ -1990,7 +1990,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Philosopher’s Walk / Garden\nView',
+					attraction: 'Philosopher’s Walk / Garden View',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Philosophengaerchen-Philosophers-Walk-Altstadt-Old-Town-Overlook-2.jpg',
 					image_alt:
@@ -2004,7 +2004,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Monastery of St. Michael Ruins\n(Philosopher's Walk)",
+					attraction: "Monastery of St. Michael Ruins (Philosopher's Walk)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Heidelberg-Michaelskloster-Heiligenberg-Monastery-of-St-Michael-Ruins.jpg',
 					image_alt:
@@ -2227,7 +2227,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Ehrenbreitstein Fortress\nGrounds',
+					attraction: 'Ehrenbreitstein Fortress Grounds',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Koblenz-Festung-Ehrenbreitstein-Fortress-Grounds.jpg',
 					image_alt:
@@ -2241,7 +2241,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'View of Koblenz\n(Ehrenbreitstein Fortress)',
+					attraction: 'View of Koblenz (Ehrenbreitstein Fortress)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Koblenz-Festung-Ehrenbreitstein-Fortress-Koblenz-View.jpg',
 					image_alt:
@@ -2255,7 +2255,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'View of Deutsches Eck\n(Ehrenbreitstein Fortress)',
+					attraction: 'View of Deutsches Eck (Ehrenbreitstein Fortress)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Koblenz-Festung-Ehrenbreitstein-Fortress-Deutsches-Eck-View.jpg',
 					image_alt:
@@ -2288,7 +2288,7 @@ export const attractionGuides = [
 			],
 			carousel_3: [
 				{
-					attraction: 'Eltz Castle\n(Mosel River Valley)',
+					attraction: 'Eltz Castle (Mosel River Valley)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Wierschem-Burg-Eltz-Castle-Exterior-Entrance-and-Walkway.jpg',
 					image_alt:
@@ -2302,7 +2302,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Eltz Castle\n(Mosel River Valley)',
+					attraction: 'Eltz Castle (Mosel River Valley)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Wierschem-Burg-Eltz-Castle-Exterior-Entrance.jpg',
 					image_alt:
@@ -2322,7 +2322,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Eltz Castle\n(Mosel River Valley)',
+					attraction: 'Eltz Castle (Mosel River Valley)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Wierschem-Burg-Eltz-Castle-Exterior-Distant-View.jpg',
 					image_alt:
@@ -2339,7 +2339,7 @@ export const attractionGuides = [
 			],
 			carousel_4: [
 				{
-					attraction: 'Cochem Town & Castle \n(River View)',
+					attraction: 'Cochem Town & Castle  (River View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Cochem-Town-and-Reichsburg-Cochem-Castle.jpg',
 					image_alt:
@@ -2354,7 +2354,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Cochem Town & Castle \n(Aerial View)',
+					attraction: 'Cochem Town & Castle  (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Cochem-Reichsburg-Cochem-Castle-Aerial.jpg',
 					image_alt:
@@ -2382,7 +2382,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Marktplatz Market Square\n(Cochem)',
+					attraction: 'Marktplatz Market Square (Cochem)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhineland-Palatinate-Mosel-River-Valley-Cochem-Markt-Market-Square.jpg',
 					image_alt:
@@ -2675,7 +2675,7 @@ export const attractionGuides = [
 			],
 			carousel_2: [
 				{
-					attraction: 'Theatine Church\n(Odeonsplatz Square)',
+					attraction: 'Theatine Church (Odeonsplatz Square)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Theatinerkirche-Theatine-Church.jpg',
 					image_alt:
@@ -2692,7 +2692,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Feldherrnhalle Loggia\n(Odeonsplatz Square)',
+					attraction: 'Feldherrnhalle Loggia (Odeonsplatz Square)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Odeonsplatz-Feldherrnhalle-Monument.jpg',
 					image_alt:
@@ -2706,7 +2706,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Antiquarium\n(Munich Residenz)',
+					attraction: 'Antiquarium (Munich Residenz)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Munich-Residenz-Palace-Interior-Antiquarium.jpg',
 					image_alt:
@@ -2720,7 +2720,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Imperial Hall\n(Munich Residenz)',
+					attraction: 'Imperial Hall (Munich Residenz)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Munich-Residenz-Palace-Interior-Imperial-Hall.jpg',
 					image_alt:
@@ -2735,7 +2735,7 @@ export const attractionGuides = [
 			],
 			carousel_3: [
 				{
-					attraction: "St. Peter's Church\n(Peterskirche)",
+					attraction: "St. Peter's Church (Peterskirche)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Peterskirche-St-Peters-Church-Aerial.jpg',
 					image_alt:
@@ -2752,7 +2752,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Munich Cathedral\n(Frauenkirche)',
+					attraction: 'Munich Cathedral (Frauenkirche)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Frauenkirche-Cathedral.jpg',
 					image_alt:
@@ -2769,7 +2769,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Asam Church\n(Asamkirche)',
+					attraction: 'Asam Church (Asamkirche)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Asamkirche-Asam-Church-Interior.jpg',
 					image_alt:
@@ -2786,7 +2786,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "St. Luke's Church\n(Lukaskirche)",
+					attraction: "St. Luke's Church (Lukaskirche)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Lukaskirche-St-Lukas-Church-Exterior.jpg',
 					image_alt:
@@ -2831,7 +2831,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Propylaen Monument\n(Königsplatz)',
+					attraction: 'Propylaen Monument (Königsplatz)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Konigsplatz-Propylaen-Monument.jpg',
 					image_alt:
@@ -2847,7 +2847,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Alte Pinakothek Art Museum\n(Kunstareal)',
+					attraction: 'Alte Pinakothek Art Museum (Kunstareal)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Alte-Pinakothek-Art-Museum-Exterior.jpg',
 					image_alt:
@@ -2866,7 +2866,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Neue Pinakothek Art Museum\n(Kunstareal)',
+					attraction: 'Neue Pinakothek Art Museum (Kunstareal)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Neue-Pinakothek-Art-Museum-Exterior-Pond.jpg',
 					image_alt:
@@ -2883,7 +2883,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pinakothek Der Moderne\nArt Museum (Kunstareal)',
+					attraction: 'Pinakothek Der Moderne Art Museum (Kunstareal)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Pinakothek-der-Moderne-Art-Museum-Exterior.jpg',
 					image_alt:
@@ -2899,7 +2899,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Glypothek Museum\n(Kunstareal)',
+					attraction: 'Glypothek Museum (Kunstareal)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Konigsplatz-Glypothek-Museum.jpg',
 					image_alt:
@@ -2914,7 +2914,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Lenbachhaus Museum\n(Kunstareal)',
+					attraction: 'Lenbachhaus Museum (Kunstareal)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Kunstareal-Lenbachhaus-Museum-Courtyard.jpg',
 					image_alt:
@@ -2967,7 +2967,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Eisbachwelle Swell Surfers\n(English Garden)',
+					attraction: 'Eisbachwelle Swell Surfers (English Garden)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Eisbachwelle-River-Swell-Surfers.jpg',
 					image_alt:
@@ -2983,7 +2983,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Eisbachwelle River Swell\n(English Garden)',
+					attraction: 'Eisbachwelle River Swell (English Garden)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Englischer-Garten-English-Garden-Eisbachwelle-River-Swell-Surfers.jpg',
 					image_alt:
@@ -2999,7 +2999,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Chinese Tower\n(English Garden)',
+					attraction: 'Chinese Tower (English Garden)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Englischer-Garten-English-Garden-Chinese-Tower.jpg',
 					image_alt:
@@ -3041,7 +3041,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Olympiaberg Hill\n(Olympic Park)',
+					attraction: 'Olympiaberg Hill (Olympic Park)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Munich-Olympic-Park-Olympiaberg-Hill-Overlook.jpg',
 					image_alt:
@@ -3075,7 +3075,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schloss Schleissheim Palace\n(Oberschleissheim)',
+					attraction: 'Schloss Schleissheim Palace (Oberschleissheim)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Munich-Oberschleissheim-Schloss-Schleissheim-Palace.jpg',
 					image_alt:
@@ -3089,7 +3089,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schleissheim New Palace\n(Oberschleissheim)',
+					attraction: 'Schleissheim New Palace (Oberschleissheim)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Munich-Oberschleissheim-Schloss-Schleissheim-New-Palace.jpg',
 					image_alt:
@@ -3105,7 +3105,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Dachau Concentration Camp\nMemorial Site Entrance',
+					attraction: 'Dachau Concentration Camp Memorial Site Entrance',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Greater-Munich-Dachau-Dachau-Concentration-Camp-Memorial-Site-Entrance.jpg',
 					image_alt:
@@ -3273,7 +3273,7 @@ export const attractionGuides = [
 		attractions: {
 			carousel_1: [
 				{
-					attraction: 'Obermarktstrasse Street\n(Braubach)',
+					attraction: 'Obermarktstrasse Street (Braubach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Braubach-Obermarktstrassse-Street-Half-Timbered-Houses.jpg',
 					image_alt:
@@ -3289,7 +3289,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY 3.0'
 				},
 				{
-					attraction: 'Marksburg Castle Aerial View\n(Braubach)',
+					attraction: 'Marksburg Castle Aerial View (Braubach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Braubach-Marksburg-Castle-Aerial.jpg',
 					image_alt:
@@ -3304,7 +3304,7 @@ export const attractionGuides = [
 					cc_license: 'CC BY-SA 4.0'
 				},
 				{
-					attraction: 'Marksburg Castle River View\n(Braubach)',
+					attraction: 'Marksburg Castle River View (Braubach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Braubach-Marksburg-Castle-River-View.jpg',
 					image_alt:
@@ -3320,7 +3320,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Marksburg Castle\n(Braubach)',
+					attraction: 'Marksburg Castle (Braubach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Braubach-Marksburg-Castle.jpg',
 					image_alt:
@@ -3354,7 +3354,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Rheinfels Castle Ruins\n(St. Goar)',
+					attraction: 'Burg Rheinfels Castle Ruins (St. Goar)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Sankt-Goar-Burg-Rheinfels-Castle-Ruins.jpg',
 					image_alt:
@@ -3370,7 +3370,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Rheinfels Castle Grounds\n(St. Goar)',
+					attraction: 'Burg Rheinfels Castle Grounds (St. Goar)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Sankt-Goar-Burg-Rheinfels-Castle-Grounds.jpg',
 					image_alt:
@@ -3404,7 +3404,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Katz Castle\n(Sankt Goarshausen)',
+					attraction: 'Burg Katz Castle (Sankt Goarshausen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Sankt-Goarshausen-Burg-Katz-Castle.jpg',
 					image_alt:
@@ -3420,7 +3420,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Maus Castle\n(Sankt Goarshausen)',
+					attraction: 'Burg Maus Castle (Sankt Goarshausen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Sankt-Goarshausen-Burg-Maus-Castle.jpg',
 					image_alt:
@@ -3436,7 +3436,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Loreley Rock\n(Rhine River)',
+					attraction: 'Loreley Rock (Rhine River)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bornich-Felsen-Lorelei-Loreley-Rock.jpg',
 					image_alt:
@@ -3452,7 +3452,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Loreley Rock\n(Rhine River)',
+					attraction: 'Loreley Rock (Rhine River)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bornich-Felsen-Lorelei-Loreley-Rock-and-Boat.jpg',
 					image_alt:
@@ -3488,7 +3488,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Altes Rathaus\n(Oberwesel)',
+					attraction: 'Altes Rathaus (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Altes-Rathaus-Old-City-Hall.jpg',
 					image_alt:
@@ -3507,7 +3507,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Marktplatz Market Square\n(Oberwesel)',
+					attraction: 'Marktplatz Market Square (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Marktplatz-Market-Square.jpg',
 					image_alt:
@@ -3526,7 +3526,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Liebfrauenkirche Church\n(Oberwesel)',
+					attraction: 'Liebfrauenkirche Church (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Liebfrauenkirche-Church.jpg',
 					image_alt:
@@ -3540,7 +3540,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "St. Martin's Church\n(Oberwesel)",
+					attraction: "St. Martin's Church (Oberwesel)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Pfarrkirche-St-Martin-Church.jpg',
 					image_alt:
@@ -3559,7 +3559,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "St. Martin's Church View\n(Oberwesel)",
+					attraction: "St. Martin's Church View (Oberwesel)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Pfarrkirche-St-Martin-Church-View.jpg',
 					image_alt:
@@ -3575,7 +3575,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Ochsenturm Tower\n(Oberwesel)',
+					attraction: 'Ochsenturm Tower (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Ochsenturm-Tower.jpg',
 					image_alt:
@@ -3591,7 +3591,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Haagsturm Tower\n(Oberwesel)',
+					attraction: 'Haagsturm Tower (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Haagsturm-Roter-Turm-Medieval-Tower.jpg',
 					image_alt:
@@ -3607,7 +3607,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Medieval City Walls\n(Oberwesel)',
+					attraction: 'Medieval City Walls (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Medieval-Walls.jpg',
 					image_alt:
@@ -3624,7 +3624,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schönburg Castle\n(Oberwesel)',
+					attraction: 'Schönburg Castle (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Schoenburg-Castle-2.jpg',
 					image_alt:
@@ -3642,7 +3642,7 @@ export const attractionGuides = [
 			],
 			carousel_4: [
 				{
-					attraction: 'Schönburg Castle\n(Aerial View)',
+					attraction: 'Schönburg Castle (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Schoenburg-Castle.jpg',
 					image_alt:
@@ -3658,7 +3658,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Schönburg Castle Grounds\n(Oberwesel)',
+					attraction: 'Schönburg Castle Grounds (Oberwesel)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Oberwesel-Schoenburg-Castle-Grounds.jpg',
 					image_alt:
@@ -3675,7 +3675,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Gutenfels Castle\n(Kaub)',
+					attraction: 'Burg Gutenfels Castle (Kaub)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Kaub-Burg-Gutenfels-Castle.jpg',
 					image_alt:
@@ -3691,7 +3691,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Pfalzgrafenstein Castle\n(Kaub)',
+					attraction: 'Burg Pfalzgrafenstein Castle (Kaub)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Kaub-Burg-Pfalzgrafenstein-Castle.jpg',
 					image_alt:
@@ -3707,7 +3707,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Pfalzgrafenstein & Gutenfels\nCastles (Kaub)',
+					attraction: 'Pfalzgrafenstein & Gutenfels Castles (Kaub)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Kaub-Burg-Pfalzgrafenstein-Castle-and-Burg-Gutenfels-Castle.jpg',
 					image_alt:
@@ -3740,7 +3740,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Half-Timbered Houses\n(Bacharach)',
+					attraction: 'Half-Timbered Houses (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Half-Timbered-Houses.jpg',
 					image_alt:
@@ -3754,7 +3754,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Stahleck Castle\n(Bacharach)',
+					attraction: 'Burg Stahleck Castle (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Burg-Stahleck-Castle.jpg',
 					image_alt:
@@ -3771,7 +3771,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Stahleck Castle Grounds\n(Bacharach)',
+					attraction: 'Burg Stahleck Castle Grounds (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Burg-Stahleck-Castle-Courtyard.jpg',
 					image_alt:
@@ -3788,7 +3788,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Wernerkapelle Chapel Ruins\n(Bacharach)',
+					attraction: 'Wernerkapelle Chapel Ruins (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Ruine-Wernerkapelle-Chapel-Ruins.jpg',
 					image_alt:
@@ -3805,7 +3805,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Steeger Tor Medieval Tower\n(Bacharach)',
+					attraction: 'Steeger Tor Medieval Tower (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Steeger-Tor-Medieval-Tower.jpg',
 					image_alt:
@@ -3822,7 +3822,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Postenturm Tower View\n(Bacharach)',
+					attraction: 'Postenturm Tower View (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Postenturm-Tower-View.jpg',
 					image_alt:
@@ -3838,7 +3838,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Kranenturm Tower & Castle\n(Bacharach)',
+					attraction: 'Kranenturm Tower & Castle (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Kranenturm-Medieval-Tower-and-Burg-Stahleck-Castle.jpg',
 					image_alt:
@@ -3854,7 +3854,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Altes Haus\n(Bacharach)',
+					attraction: 'Altes Haus (Bacharach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bacharach-Altes-Haus.jpg',
 					image_alt:
@@ -3871,7 +3871,7 @@ export const attractionGuides = [
 			],
 			carousel_6: [
 				{
-					attraction: 'Burg Sooneck Castle\n(Niederheimbach)',
+					attraction: 'Burg Sooneck Castle (Niederheimbach)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Niederheimbach-Burg-Sooneck-Castle.jpg',
 					image_alt:
@@ -3887,7 +3887,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Reichenstein Castle\n(Trechtingshausen)',
+					attraction: 'Burg Reichenstein Castle (Trechtingshausen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Trechtingshausen-Burg-Reichenstein-Castle.jpg',
 					image_alt:
@@ -3906,7 +3906,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Rheinstein Castle\n(Trechtingshausen)',
+					attraction: 'Burg Rheinstein Castle (Trechtingshausen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Trechtingshausen-Burg-Rheinstein-Castle.jpg',
 					image_alt:
@@ -3926,7 +3926,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Klopp Castle\n(Bingen)',
+					attraction: 'Burg Klopp Castle (Bingen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bingen-Burg-Klopp-Castle.jpg',
 					image_alt:
@@ -3945,7 +3945,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Mouse Tower (Mauserturm) &\nEhrenfels Castle (Bingen)',
+					attraction: 'Mouse Tower (Mauserturm) & Ehrenfels Castle (Bingen)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Bingen-Mauserturm-Mouse-Tower-and-Ruine-Burg-Ehrenfels-Castle.jpg',
 					image_alt:
@@ -3962,7 +3962,7 @@ export const attractionGuides = [
 			],
 			carousel_7: [
 				{
-					attraction: 'Droselgasse Historic Street\n(Rüdesheim am Rhein)',
+					attraction: 'Droselgasse Historic Street (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Drosselgasse-Historic-Street.jpg',
 					image_alt:
@@ -3981,7 +3981,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: "Sigfried's Mechanical Museum\n(Rüdesheim am Rhein)",
+					attraction: "Sigfried's Mechanical Museum (Rüdesheim am Rhein)",
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Siegfrieds-Mechanical-Museum-Exterior.jpg',
 					image_alt:
@@ -3998,7 +3998,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Burg Ehrenfels Castle\n(Rüdesheim am Rhein)',
+					attraction: 'Burg Ehrenfels Castle (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Burg-Ehrenfels-Castle.jpg',
 					image_alt:
@@ -4015,7 +4015,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Rossel Medieval Tower View\n(Rüdesheim am Rhein)',
+					attraction: 'Rossel Medieval Tower View (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Rossel_Medieval-Tower-View-of-Rhine-River-and-Bingen.jpg',
 					image_alt:
@@ -4032,7 +4032,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Niederwalddenkmal Monument\n(Rüdesheim am Rhein)',
+					attraction: 'Niederwalddenkmal Monument (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Niederwalddenkmal.jpg',
 					image_alt:
@@ -4052,7 +4052,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Niederwalddenkmal Monument\n(Aerial View)',
+					attraction: 'Niederwalddenkmal Monument (Aerial View)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Niederwalddenkmal-Aerial-View.jpg',
 					image_alt:
@@ -4069,7 +4069,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Niederwalddenkmal Temple View\n(Rüdesheim am Rhein)',
+					attraction: 'Niederwalddenkmal Temple View (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Niederwalddenkmal-Temple-View.jpg',
 					image_alt:
@@ -4085,7 +4085,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Niederwalddenkmal Gondola Cars\n(Rüdesheim am Rhein)',
+					attraction: 'Niederwalddenkmal Gondola Cars (Rüdesheim am Rhein)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Rhine-River-Valley-Ruedesheim-am-Rhein-Seilbahngesellschaft-Niederwalddenkmal-Gondola-Cable-Cars.jpg',
 					image_alt:
@@ -4130,7 +4130,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Markt Market Square\n(Mainz)',
+					attraction: 'Markt Market Square (Mainz)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Mainz-Markt-Market-Square.jpg',
 					image_alt:
@@ -4144,7 +4144,7 @@ export const attractionGuides = [
 				},
 
 				{
-					attraction: 'Gutenberg Museum\n(Mainz)',
+					attraction: 'Gutenberg Museum (Mainz)',
 					image_url:
 						'https://www.travelimager.com/images/germany/Germany-Mainz-Gutenberg-Museum-Exterior.jpg',
 					image_alt:
