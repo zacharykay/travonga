@@ -1,4 +1,5 @@
-import { attractionGuides } from '../../../../data/attractions/utah';
+// import { attractionGuides } from '../../../../data/attractions/utah';
+const { attractionGuides } = require('../../../../data/attractions/utah.json');
 
 // req.query.id or {query: {id}} in place of req
 export default function handler({ query: { id } }, res) {
@@ -7,6 +8,8 @@ export default function handler({ query: { id } }, res) {
 	if (filtered.length > 0) {
 		res.status(200).json(filtered[0]);
 	} else {
-		res.status(404).json({ message: `Attraction guide with id of ${id} was not found` });
+		res
+			.status(404)
+			.json({ message: `Attraction guide with id of ${id} was not found` });
 	}
 }

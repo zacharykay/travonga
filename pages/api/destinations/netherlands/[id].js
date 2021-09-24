@@ -1,4 +1,5 @@
-import { attractionGuides } from '../../../../data/attractions/netherlands';
+// import { attractionGuides } from '../../../../data/attractions/netherlands';
+const { attractionGuides } = require('../../../../data/attractions/netherlands.json');
 
 export default function handler({ query: { id } }, res) {
 	const filtered = attractionGuides.filter((guide) => guide.id === id);

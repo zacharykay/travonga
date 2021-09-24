@@ -1,4 +1,5 @@
-import { attractionGuides } from '../../../../data/attractions/california';
+// import { attractionGuides } from '../../../../data/attractions/california';
+const { attractionGuides } = require('../../../../data/attractions/california.json');
 
 export default function handler(req, res) {
 	res.status(200).json(attractionGuides);

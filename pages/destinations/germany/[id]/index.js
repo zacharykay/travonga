@@ -1,28 +1,8 @@
-import { useState, useEffect } from 'react';
-
 import { server } from '../../../../config';
 import AttractionsGuide from '../../../../components/attraction_guides/AttractionsGuide';
 
 const Attraction = ({ data }) => {
-	const [ size, setSize ] = useState(null);
-
-	const checkSize = () => {
-		setSize(window.innerWidth);
-	};
-
-	useEffect(() => {
-		checkSize();
-	}, []);
-
-	useEffect(() => {
-		window.addEventListener('resize', checkSize);
-
-		return () => {
-			window.removeEventListener('resize', checkSize);
-		};
-	}, []);
-
-	return <AttractionsGuide data={data} size={size} />;
+	return <AttractionsGuide data={data} />;
 };
 
 export const getStaticProps = async (context) => {

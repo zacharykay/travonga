@@ -1,4 +1,5 @@
-import { destinations } from '../../../data/destinations';
+// import { destinations } from '../../../data/destinations';
+const { destinations } = require('../../../data/destinations.json');
 
 export default function handler({ query: { id } }, res) {
 	const filtered = destinations.filter((destination) => destination.id === id);
