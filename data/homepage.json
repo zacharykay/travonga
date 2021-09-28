@@ -1,0 +1,1134 @@
+{
+  "meta": {
+    "page_title": null,
+    "thumbnail": null,
+    "meta_description": null,
+    "meta_keywords": null,
+    "social_media_title": null,
+    "social_media_thumbnail": null
+  },
+  "itineraries": [
+    {
+      "id": "western-europe",
+      "itinerary_link": "/itineraries/western-europe-travel-itinerary-and-top-attractions-by-train",
+      "itinerary_title": "Western Europe Itinerary",
+      "itinerary_title_line_2": null,
+      "itinerary_length": "2½  - 5 Weeks",
+      "by_train": true,
+      "road_trip": false,
+      "carousel_items": [
+        {
+          "image_location": "London, England",
+          "image_url": "https://www.travelimager.com/images/england/England-London-Palace-of-Westminster-1.jpg",
+          "image_alt": "Palace of Westminster and Big Ben seen from atop the London Eye Ferris Wheel"
+        },
+        {
+          "image_location": "Stonehenge, England",
+          "image_url": "https://www.travelimager.com/images/england/England-Wiltshire-Salisbury-Amesbury-Stonehenge-Sun-Shining-through-Clouds.jpg",
+          "image_alt": "Iconic neolithic monument of Stonehenge located in the English countryside near Salisbury, Wiltshire, Southern England"
+        },
+        {
+          "image_location": "Dublin, Ireland",
+          "image_url": "https://www.travelimager.com/images/ireland/Ireland-Dublin-Temple-Bar-1.jpg",
+          "image_alt": "Busy streets at night outside the famous red Temple Bar, at the heart of Dublin's Temple Bar District"
+        },
+        {
+          "image_location": "Cliffs of Moher, Ireland",
+          "image_url": "https://www.travelimager.com/images/ireland/Ireland-County-Clare-Cliffs-of-Moher-Southwest-View.jpg",
+          "image_alt": "Looking along the grass-covered jagged steep Cliffs of Moher towering above the ocean in County Clare, Ireland near Galway"
+        },
+        {
+          "image_location": "Amsterdam, Netherlands",
+          "image_url": "https://www.travelimager.com/images/netherlands/Netherlands-Amsterdam-Prinsensluis-Prinsenstraat-Bridge-South-View-Sunset.jpg",
+          "image_alt": "Lovely evening views looking down a Central Amsterdam canal lined with historic row houses and trees, with an oncoming tour boat, seen from the Preisensluis Bridge"
+        },
+        {
+          "image_location": "Brussels, Belgium",
+          "image_url": "https://www.travelimager.com/images/belgium/Belgium-Brussels-Grand-Place-Square-and-Brothaus-Kings-House-Building.jpg",
+          "image_alt": "Brothaus and Kings House along Grand Place Square in the center of Brussels, Belgium"
+        },
+        {
+          "image_location": "Bruges, Belgium",
+          "image_url": "https://www.travelimager.com/images/belgium/Belgium-Bruges-Brugge-Fotoplaats-Bruges-Canal-Photo-Point.jpg",
+          "image_alt": "Famous viewpoint along the canals in Bruges with several rustic medieval buildings along the water and the Belfry of Bruges in the background"
+        },
+        {
+          "image_location": "Paris, France",
+          "image_url": "https://www.travelimager.com/images/france/France-Paris-Eiffel-Tower-and-Champ-de-Mars-Park-Sunset-Golden-Hour.jpg",
+          "image_alt": "Eiffel Tower viewed at with sunset and golden hour colors seen behind the Champ de Mars in Paris, France"
+        },
+        {
+          "image_location": "Versailles, France",
+          "image_url": "https://www.travelimager.com/images/france/France-Greater-Paris-Versailles-Palace-of-Versailles-Courtyard.jpg",
+          "image_alt": "Beautiful checkerboard courtyard and pink exterior of the Palace of Versailles located just outside Paris, France"
+        },
+        {
+          "image_location": "Barcelona, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Barcelona-Parc-Guell-Gaudi-Gingerbread-Houses.jpg",
+          "image_alt": "Famous gingerbread houses of Antoni Gaudi's Parc Guell in the hills above Barcelona, Spain"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Dublin",
+          "destination_link": "/destinations/ireland/dublin-attractions-guide"
+        },
+        {
+          "destination_name": "London",
+          "destination_link": "/destinations/england/london-attractions-guide"
+        },
+        {
+          "destination_name": "Salisbury",
+          "destination_link": "/destinations/england/stonehenge-and-salisbury-attractions-guide"
+        },
+        {
+          "destination_name": "Amsterdam",
+          "destination_link": "/destinations/netherlands/amsterdam-attractions-guide"
+        },
+        {
+          "destination_name": "Brussels",
+          "destination_link": "/destinations/belgium/brussels-attractions-guide"
+        },
+        {
+          "destination_name": "Bruges",
+          "destination_link": "/destinations/belgium/bruges-attractions-guide"
+        },
+        {
+          "destination_name": "Paris",
+          "destination_link": "/destinations/france/paris-attractions-guide"
+        },
+        {
+          "destination_name": "Versailles",
+          "destination_link": "/destinations/france/greater-paris-attractions-guide"
+        },
+        {
+          "destination_name": "Barcelona",
+          "destination_link": "/destinations/spain/barcelona-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Cliffs of Moher",
+        "Big Ben",
+        "Stonhenge",
+        "Zaanse Schans",
+        "Eiffel Tower",
+        "Palace of Versailles",
+        "Sagrada Familia"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Edinburgh",
+          "destination_link": "/destinations/scotland/edinburgh-attractions-guide"
+        },
+        {
+          "destination_name": "Luxembourg City",
+          "destination_link": "/destinations/luxembourg-city-attractions-guide"
+        },
+        {
+          "destination_name": "Carcassonne Castle",
+          "destination_link": "/destinations/france/carcassonne-and-narbonne-attractions-guide"
+        },
+        {
+          "destination_name": "Ibiza",
+          "destination_link": "/destinations/spain/ibiza-attractions-guide"
+        },
+        {
+          "destination_name": "Madrid",
+          "destination_link": "/destinations/spain/madrid-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "central-europe",
+      "itinerary_link": "/itineraries/central-europe-travel-itinerary-and-top-attractions-by-train",
+      "itinerary_title": "Central Europe Itinerary",
+      "itinerary_title_line_2": null,
+      "itinerary_length": "2 - 4 Weeks",
+      "by_train": true,
+      "road_trip": false,
+      "carousel_items": [
+        {
+          "image_location": "Berlin, Germany",
+          "image_url": "https://www.travelimager.com/images/germany/Germany-Berlin-Berliner-Dom-Berlin-Cathedral.jpg",
+          "image_alt": "Sunset colors behind the facade of the majestic Berliner Dom or Berlin Cathedral with  Fernsehturm Tower in background"
+        },
+        {
+          "image_location": "Prague, Czech Republic",
+          "image_url": "https://www.travelimager.com/images/czech-republic/Czechia-Czech-Republic-Prague-Charles-Bridge-and-Prague-Castle-Aerial-View.jpg",
+          "image_alt": "Sunset aerial view overlooking the Charles Bridge walkway with the hilltop Prague Castle in the background in Prague, Czech Republic"
+        },
+        {
+          "image_location": "Vienna, Austria",
+          "image_url": "https://www.travelimager.com/images/austria/Austria-Vienna-Karlskirche-St-Carls-Church-Night-Reflection.jpg",
+          "image_alt": "Reflection of the stunning marble Karlskirch Church of St. Carl and its columns in Vienna, Austria"
+        },
+        {
+          "image_location": "Budapest, Hungary",
+          "image_url": "https://www.travelimager.com/images/hungary/Hungary-Budapest-Szechenyi-Chain-Bridge-1.jpg",
+          "image_alt": "Night-time aerial view overlooking the lit up Szechenyi Chain bridge and Hungarian Parliament Building from high above in Budapest, Hungary"
+        },
+        {
+          "image_location": "Salzburg, Austria",
+          "image_url": "https://www.travelimager.com/images/austria/Austria-Salzburg-Salzach-River-View-of-Old-Town-Residenz-and-Hohensalzburg-Fortress.jpg",
+          "image_alt": "Hohensalzburg Fortress and Old Town Salburg and Residenz seen from across the Salzach River in Sazlburg, Austria"
+        },
+        {
+          "image_location": "Hallstatt, Austria",
+          "image_url": "https://www.travelimager.com/images/austria/Austria-Salzkammergut-Hallstatt-Classic-Village-Viewpoint-2.jpg",
+          "image_alt": "Classic Village Viewpoint of Hallstatt on Hallstattersee Lake in the Salzkammergut Region of Austria"
+        },
+        {
+          "image_location": "Munich, Germany",
+          "image_url": "https://www.travelimager.com/images/germany/Germany-Munich-Marienplatz-Square.jpg",
+          "image_alt": "View overlooking the medieval buildings around Marienplatz square, the main square in Munich, Germany in Bavaria"
+        },
+        {
+          "image_location": "Neuschwanstein Castle",
+          "image_url": "https://www.travelimager.com/images/germany/Germany-Fussen-Hohenschwangau-Schloss-Neuschwanstein-Castle-Spring.jpg",
+          "image_alt": "Spring foliage on a cloudy day overlooking Neuschwanstein Castle from Marienbruecke Bridge in Bavaria, Germany"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Berlin",
+          "destination_link": "/destinations/germany/berlin-attractions-guide"
+        },
+        {
+          "destination_name": "Prague",
+          "destination_link": "/destinations/czech-republic-czechia/prague-attractions-guide"
+        },
+        {
+          "destination_name": "Vienna",
+          "destination_link": "/destinations/austria/vienna-attractions-guide"
+        },
+        {
+          "destination_name": "Budapest",
+          "destination_link": "/destinations/hungary-budapest-attractions-guide"
+        },
+        {
+          "destination_name": "Salzburg",
+          "destination_link": "/destinations/austria/salzburg-attractions-guide"
+        },
+        {
+          "destination_name": "Hallstatt",
+          "destination_link": "/destinations/austria/hallstatt-and-salzkammergut-attractions-guide"
+        },
+        {
+          "destination_name": "Munich",
+          "destination_link": "/destinations/germany/munich-attractions-guide"
+        },
+        {
+          "destination_name": "Neuschwanstein",
+          "destination_link": "/destinations/germany/fussen-and-neuschwanstein-castle-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Berlin Wall",
+        "Prague Castle",
+        "Schönbrunn & Hofburg Palaces",
+        "Buda Castle",
+        "Neuschwanstein Castle"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Bratislava",
+          "destination_link": "/destinations/slovakia-bratislava-attractions-guide"
+        },
+        {
+          "destination_name": "Heidelberg",
+          "destination_link": "/destinations/germany/heidelberg-attractions-guide"
+        },
+        {
+          "destination_name": "Rhine River Valley",
+          "destination_link": "/destinations/germany/rhine-river-valley-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "italy",
+      "itinerary_link": "/itineraries/italy-travel-itinerary-and-top-attractions-by-train",
+      "itinerary_title": "Italy Itinerary",
+      "itinerary_title_line_2": null,
+      "itinerary_length": "2 - 4 Weeks",
+      "by_train": true,
+      "road_trip": false,
+      "carousel_items": [
+        {
+          "image_location": "Milan",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Milan-Duomi-di-Milano-Milan-Cathedral-and-Piazza-del-Duomo.jpg",
+          "image_alt": "Cloudy day at the Piazza del Duomo with the striking Milan Cathedral towering above it in Central Milan, Italy"
+        },
+        {
+          "image_location": "Lake Como",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Lake-Como-Bellagio-Lungolago-Europa-Path-Bellagio-Village-View.jpg",
+          "image_alt": "Picturesque view of Bellagio, Italy along the shores of Lake Como seen from the Lungolago Europa lakeside pathway"
+        },
+        {
+          "image_location": "Venice",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Venice-Venezia-Piazza-San-Marco-St-Marks-Square-St-Marks-Campanile.jpg",
+          "image_alt": "Gondola boats along the water in front of St. Mark's Square with St. Mark's Campanile towering above it in Venice, Italy"
+        },
+        {
+          "image_location": "Rome",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Rome-Roman-Forum.jpg",
+          "image_alt": "Overlooking the towering columns and ancient ruins of the Roman Forum surrounded by grassy fields in Rome, Italy"
+        },
+        {
+          "image_location": "Vatican City",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Rome-Vatican-City-Vatican-Square.jpg",
+          "image_alt": "Iconic view of Vatican Square surrounded by grandiose colonnades seen from the dome of St. Peter's Basilica in Vatican City"
+        },
+        {
+          "image_location": "Naples",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Naples-View-over-Old-Town-and-Bay-of-Naples-with-Mount-Vesuvius.jpg",
+          "image_alt": "View overlooking Naples Old Town and Bay of Napels with Moutn Vesuvius in the background, Naples, Italy"
+        },
+        {
+          "image_location": "Pompeii",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Pompeii-Pompeii-Archaeological-Park-Via-di-Nola-Street.jpg",
+          "image_alt": "Anicent streets of Pompeii and densely packed partially-ruined structures in Pompeii Archaeological Park, Italy"
+        },
+        {
+          "image_location": "Capri",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Capri-Marina-Piccola-Beach-View.jpg",
+          "image_alt": "Clear waters at the beach of Marina Piccola with views of Faraglioni rocks "
+        },
+        {
+          "image_location": "Amalfi Coast",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Amalfi-Coast-Positano-Positano-Spiaggia-Beach-View.jpg",
+          "image_alt": "Looking down the coastline along Positano's Spiaggia Beach below the village of Positano along Italy's Amalfi Coast"
+        },
+        {
+          "image_location": "Pisa",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Pisa-Leaning-Tower-of-Pisa-and-Duomo-Cathedral-Grassy-Piazza-del-Duomo.jpg",
+          "image_alt": "Grassy Piazza del Duomo with the Pisa Cathedral and Leaning Tower of Pisa, in Northern Pisa, Italy"
+        },
+        {
+          "image_location": "Florence",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Florence-Firenze-Piazzale-Michelangelo-View-Sunset.jpg",
+          "image_alt": "Sunset view from Piazzale Michelangelo over Arno River and rustic buildings of Florence, Italy and Florence Cathedral's Dome"
+        },
+        {
+          "image_location": "Cinque Terre",
+          "image_url": "https://www.travelimager.com/images/italy/Italy-Cinque-Terre-Manarola-Manarola-Scenic-Viewpoint-Sunset.jpg",
+          "image_alt": "Sunset view overlooking the idyllic Cinque Terre Village of Manarola above the coast from the Manarola Scenic Viewpoint"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Milan",
+          "destination_link": "/destinations/italy/milan-attractions-guide"
+        },
+        {
+          "destination_name": "Lake Como",
+          "destination_link": "/destinations/italy/lake-como-attractions-guide"
+        },
+        {
+          "destination_name": "Venice",
+          "destination_link": "/destinations/italy/venice-attractions-guide"
+        },
+        {
+          "destination_name": "Rome",
+          "destination_link": "/destinations/italy/rome-attractions-guide"
+        },
+        {
+          "destination_name": "Naples",
+          "destination_link": "/destinations/italy/naples-attractions-guide"
+        },
+        {
+          "destination_name": "Pompeii",
+          "destination_link": "/destinations/italy/pompeii-attractions-guide"
+        },
+        {
+          "destination_name": "Island of Capri",
+          "destination_link": "/destinations/italy/capri-attractions-guide"
+        },
+        {
+          "destination_name": "Amalfi Coast",
+          "destination_link": "/destinations/italy/amalfi-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Florence",
+          "destination_link": "/destinations/italy/florence-attractions-guide"
+        },
+        {
+          "destination_name": "Pisa",
+          "destination_link": "/destinations/italy/pisa-attractions-guide"
+        },
+        {
+          "destination_name": "Cinque Terre",
+          "destination_link": "/destinations/italy/florence-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Da Vinici's Last Supper",
+        "Piazza San Marco",
+        "Roman Colosseum & Forum",
+        "Vatican City",
+        "Ancient Pompeii",
+        "Michelangeo's David",
+        "Leaning Tower of Pisa"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Lucerne",
+          "destination_link": "/destinations/switzerland/lucerne-attractions-guide"
+        },
+        {
+          "destination_name": "Verona",
+          "destination_link": "/destinations/italy/verona-attractions-guide"
+        },
+        {
+          "destination_name": "Monaco",
+          "destination_link": "/destinations/monaco-attractions-guide"
+        },
+        {
+          "destination_name": "Nice",
+          "destination_link": "/destinations/france/nice-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "spain-portugal",
+      "itinerary_link": "/itineraries/spain-and-portugal-travel-itinerary-and-top-attractions-by-train",
+      "itinerary_title": "Spain & Portugal Itinerary",
+      "itinerary_title_line_2": null,
+      "itinerary_length": "3 - 5 Weeks",
+      "by_train": true,
+      "road_trip": false,
+      "carousel_items": [
+        {
+          "image_location": "Barcelona, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Barcelona-La-Sagrada-Familia-Basilica-Exterior-1.jpg",
+          "image_alt": "View of Antoni Gaudi's La Sagrada Famila exterior facade behind a park pond in the Catalonian capital of Barcelona, Spain"
+        },
+        {
+          "image_location": "Valencia, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Valencia-City-of-Arts-and-Sciences-Buildings-Evening-Lights.jpg",
+          "image_alt": "Evening view of the illuminated futuristic buildings of Valencia's City of Arts and Sciences in Eastern Spain"
+        },
+        {
+          "image_location": "Costa Blanca, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Costa-Blanca-Benidorm-Playa-de-Poniente.jpg",
+          "image_alt": "Skyscrapers line the beautiful long sandy Playa de Poniente Beach and its vibrant blue-green waters in the popular resort town of Benidorm along Spain's Costa Blanca"
+        },
+        {
+          "image_location": "Madrid, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Madrid-Downtown-Buildings-Overlook.jpg",
+          "image_alt": "Terrace viewpoint overlooking beautiful art nouveau style buildings of Downtown Madrid, Spain"
+        },
+        {
+          "image_location": "Segovia, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Segovia-Alcazar-de-Segovia-Castle-Mirador-de-la-Pradera-de-San-Marcos-Field-Viewpoint.jpg",
+          "image_alt": "Mirador de la Pradera de San Marcos Field Viewpoint below the Alcazar de Segova Castle of Segovia, Spain"
+        },
+        {
+          "image_location": "Toldeo, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Toledo-Walled-City-View-from-behind-Tagus-River-Sunset.jpg",
+          "image_alt": "Sunset view overlooking Old Town Walled City of Toledo behind the Tagus River, Toledo, Spain"
+        },
+        {
+          "image_location": "Cordoba, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Cordoba-Alcazar-of-the-Christian-Monarchs-Castle-Gardens-and-Fountains.jpg",
+          "image_alt": "Royal Alcazar of the Christian Monarchs of Cordoba Castle Gardens and fountains in Cordoba, Spain"
+        },
+        {
+          "image_location": "Granada, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Granada-Mirador-San-Nicolas-Alhambra-Overlook.jpg",
+          "image_alt": "Alhambra during sunset seen from the Mirador San Nicolas Viewpoint in Granada, Spain"
+        },
+        {
+          "image_location": "Seville, Spain",
+          "image_url": "https://www.travelimager.com/images/spain/Spain-Seville-Plaza-de-Espana-Wide-Angle.jpg",
+          "image_alt": "Wide angle view of the massive Plaza de Espana in Seville, Spain"
+        },
+        {
+          "image_location": "Algarve Coast, Portugal",
+          "image_url": "https://www.travelimager.com/images/portugal/Portugal-Algarve-Coast-Carvoeiro-Praia-da-Benagil-Beach-Benagil-Caves-Inside.jpg",
+          "image_alt": "Inside the famous Benagil Caves sea caves and beach of Carvoeiro, Algarve Coast, Portugal"
+        },
+        {
+          "image_location": "Lisbon, Portugal",
+          "image_url": "https://www.travelimager.com/images/portugal/Portugal-Lisbon-Miradouro-das-Portas-do-Sol-Viewpoint-of-Church-of-Sao-Vicente-of-Fora.jpg",
+          "image_alt": "Miradouro das Portas do Sol Viewpoint overlooking the Church of Sao Vicente of Fora and River in Central Lisbon, Portugal"
+        },
+        {
+          "image_location": "Sintra, Portugal",
+          "image_url": "https://www.travelimager.com/images/portugal/Portugal-Sintra-Castle-of-the-Moors-View-of-Hilltop-Medieval-Walls-and-Towers.jpg",
+          "image_alt": "Overlooking the vast winding walls along the mountaintop of the Castle of the Moors in Sintra, Portugal"
+        },
+        {
+          "image_location": "Porto, Portugal",
+          "image_url": "https://www.travelimager.com/images/portugal/Portugal-Porto-Old-Town-Douro-River-View.jpg",
+          "image_alt": "Douro River shore view of Old Town Porto atop the hills in Porto, Portugal"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Barcelona",
+          "destination_link": "/destinations/spain/barcelona-attractions-guide"
+        },
+        {
+          "destination_name": "Valencia",
+          "destination_link": "/destinations/spain/valencia-attractions-guide"
+        },
+        {
+          "destination_name": "Costa Blanca",
+          "destination_link": "/destinations/spain/costa-blanca-attractions-guide"
+        },
+        {
+          "destination_name": "Madrid",
+          "destination_link": "/destinations/spain/madrid-attractions-guide"
+        },
+        {
+          "destination_name": "Segovia",
+          "destination_link": "/destinations/spain/segovia-attractions-guide"
+        },
+        {
+          "destination_name": "Toledo",
+          "destination_link": "/destinations/spain/toledo-attractions-guide"
+        },
+        {
+          "destination_name": "Cordoba",
+          "destination_link": "/destinations/spain/cordoba-attractions-guide"
+        },
+        {
+          "destination_name": "Granada",
+          "destination_link": "/destinations/spain/granada-attractions-guide"
+        },
+        {
+          "destination_name": "Seville",
+          "destination_link": "/destinations/spain/seville-attractions-guide"
+        },
+        {
+          "destination_name": "Algarve Coast",
+          "destination_link": "/destinations/portugal/algarve-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Lisbon",
+          "destination_link": "/destinations/portugal/lisbon-attractions-guide"
+        },
+        {
+          "destination_name": "Sintra",
+          "destination_link": "/destinations/portugal/sintra-attractions-guide"
+        },
+        {
+          "destination_name": "Porto",
+          "destination_link": "/destinations/portugal/porto-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Parc Güell",
+        "City of Arts & Sciences",
+        "Benidorm",
+        "Segovia Castle",
+        "Alhambra",
+        "Plaza de España",
+        "Marinha Beach",
+        "Benagil Caves",
+        "Pena Palace",
+        "Quinta da Regaleira"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Ibiza",
+          "destination_link": "/destinations/spain/ibiza-attractions-guide"
+        },
+        {
+          "destination_name": "Avila & Salamanca",
+          "destination_link": "/destinations/spain/avila-and-salamanca-attractions-guide"
+        },
+        {
+          "destination_name": "Malaga",
+          "destination_link": "/destinations/spain/malaga-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "pacific-northwest",
+      "itinerary_link": "/itineraries/pacific-northwest-road-trip-itinerary-and-top-attractions",
+      "itinerary_title": "Pacific Northwest",
+      "itinerary_title_line_2": "Road Trip Itinerary",
+      "itinerary_length": "3 - 5 Weeks",
+      "by_train": false,
+      "road_trip": true,
+      "carousel_items": [
+        {
+          "image_location": "San Francisco, California",
+          "image_url": "https://www.travelimager.com/images/california/California-San-Francisco-Golden-Gate-Bridge-Fort-Point-View-2.jpg",
+          "image_alt": "Fort Point View overlooking the entrance to the San Francisco Bay beneath the Golden Gate Bridge in San Francisco, California"
+        },
+        {
+          "image_location": "Lower Northern California Coast",
+          "image_url": "https://www.travelimager.com/images/california/California-Lower-Northern-Coast-Russian-Gulch-Bridge-Viewpoint.jpg",
+          "image_alt": "Viewpoint overlooking the Russian Gulch Bridge along the Mendocino coastline of the Lower Northern California Coast"
+        },
+        {
+          "image_location": "Upper Northern California Coast & Redwoods",
+          "image_url": "https://www.travelimager.com/images/california/California-Upper-Northern-Coast-Lady-Bird-Johnson-Grove-Trail.jpg",
+          "image_alt": "Morning fog among the Prairie Creek Redwoods trees seen along the Lady Bird Johnson Grove Trail of Northern California"
+        },
+        {
+          "image_location": "Southern Oregon Coast",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Southern-Coast-Brookings-Samuel-H-Boardman-State-Scenic-Corridor-Natural-Bridges-Cove-Bridges-and-Islands-Sunset.jpg",
+          "image_alt": "Stunning view overlooking the Natural Bridges Cove and island along the Samuel H. BoardmanStat Scenic Corridor of the Southern Oregon Coast"
+        },
+        {
+          "image_location": "Northern Oregon Coast & Cannon Beach",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Northern-Coast-Ecola-State-Park-Ecola-Point-2.jpg",
+          "image_alt": "Forest-covered cliffs of Ecola State Park meeting the sandy beach at Ecola Point near Cannon Beach, Northern Oregon"
+        },
+        {
+          "image_location": "Olympic National Park, Washington",
+          "image_url": "https://www.travelimager.com/images/washington/Washington-Olympic-National-Park-Rainforest-Wildlife-Deer.jpg",
+          "image_alt": "Wild deer seen in the lush Hoh Rainforest of Olympic National Park, Washington on the Olympic Peninsula"
+        },
+        {
+          "image_location": "Victoria & Vancouver Island, B.C.",
+          "image_url": "https://www.travelimager.com/images/british-columbia/British-Columbia-Vancouver-Island-Victoria-Brentwood-Bay-Butchart-Gardens-View.jpg",
+          "image_alt": "Lush gardens and flowers of the famous Butchart Gardens of Brentwood Bay near Victoria on Vancouver Island, British Columbia, Canada"
+        },
+        {
+          "image_location": "Vancouver, B.C.",
+          "image_url": "https://www.travelimager.com/images/british-columbia/British-Columbia-Vancouver-Downtown-Vancouver-Harbor-and-Mountains-View.jpg",
+          "image_alt": "View overlooking Downtown Vancouver and highrises behind a marina in Vancouver, British Columbia, Canada"
+        },
+        {
+          "image_location": "Seattle, Washington",
+          "image_url": "https://www.travelimager.com/images/washington/Washington-Seattle-Kerry-Park-View-of-Space-Needle-and-Mt-Rainier-Sunset-behind-Tree.jpg",
+          "image_alt": "Iconic view from Kerry Park of Seattle Space Needle seen amongst the skyscrapers of Downtown Seattle and Mt. Rainier in the distance at sunset in Seattle, Washington"
+        },
+        {
+          "image_location": "Mt. Rainier National Park, Washington",
+          "image_url": "https://www.travelimager.com/images/washington/Washington-Mount-Rainier-National-Park-View-over-Eunice-Lake-from-Tolmie-Peak-Trail.jpg",
+          "image_alt": "View overlooking Mt. Rainier towering above Eunice Lake from the Tolmie Peak Trail of Mount Rainier National Park, Washington"
+        },
+        {
+          "image_location": "Portland, Oregon",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Portland-Downtown-Portland-PDX-View.jpg",
+          "image_alt": "View overlooking Downtown Portland (PDX) and the university cable car in Portland, Oregon"
+        },
+        {
+          "image_location": "Columbia River Gorge, Oregon",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Columbia-River-Gorge-Lower-Multnomah-Falls-and-Bridge-Winter.jpg",
+          "image_alt": "Lower Multnomah Falls and bridge surrounded by winter scenery along the Columbia River Gorge of Oregon"
+        },
+        {
+          "image_location": "Bend, Oregon",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Bend-Misery-Ridge-to-Summit-Trail.jpg",
+          "image_alt": "Iconic view overlooking the river winding through the tall cliffs of Smith Rock State Park along Misery Ridge in Bend, Oregon"
+        },
+        {
+          "image_location": "Crater Lake National Park, Oregon",
+          "image_url": "https://www.travelimager.com/images/oregon/Oregon-Crater-Lake-National-Park-Wizard-Island-and-Rim-Overlook.jpg",
+          "image_alt": "View overlooking the Wizard Island and the rounded rim of Crater Lake at Oregon's Crater Lake National Park"
+        },
+        {
+          "image_location": "Burney Falls (Shasta & Lassen), California",
+          "image_url": "https://www.travelimager.com/images/california/California-Mt-Shasta-Area-McArthu-Burney-Falls-Park-Burney-Falls.jpg",
+          "image_alt": "Close-up view of the large powerful Burney Falls near Mt. Shasta and Lassen Volcanic National Park, Northern California"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "San Francisco",
+          "destination_link": "/destinations/california/san-francisco-attractions-guide"
+        },
+        {
+          "destination_name": "Lower NorCal Coast",
+          "destination_link": "/destinations/california/lower-northern-california-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Upper NorCal Coast",
+          "destination_link": "/destinations/california/upper-northern-california-coast-attractions-guide"
+        },
+        {
+          "destination_name": "S. Oregon Coast",
+          "destination_link": "/destinations/oregon/southern-oregon-coast-attractions-guide"
+        },
+        {
+          "destination_name": "N. Oregon Coast",
+          "destination_link": "/destinations/oregon/northern-oregon-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Olympic National Park",
+          "destination_link": "/destinations/washington/olympic-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Victoria",
+          "destination_link": "/destinations/canada/british-columbia/victoria-and-vancouver-island-attractions-guide"
+        },
+        {
+          "destination_name": "Vancouver",
+          "destination_link": "/destinations/canada/british-columbia/vancouver-attractions-guide"
+        },
+        {
+          "destination_name": "Seattle",
+          "destination_link": "/destinations/washington/seattle-attractions-guide"
+        },
+        {
+          "destination_name": "Mt. Rainier National Park",
+          "destination_link": "/destinations/washington/mount-rainier-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Portland",
+          "destination_link": "/destinations/oregon/portland-attractions-guide"
+        },
+        {
+          "destination_name": "Columbia River Gorge",
+          "destination_link": "/destinations/oregon/columbia-river-gorge-attractions-guide"
+        },
+        {
+          "destination_name": "Bend",
+          "destination_link": "/destinations/oregon/bend-attractions-guide"
+        },
+        {
+          "destination_name": "Crater Lake N.P.",
+          "destination_link": "/destinations/oregon/crater-lake-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Mt. Shasta & Lassen",
+          "destination_link": "/destinations/california/lassen-national-park-and-mt-shasta-area-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Golden Gate Bridge",
+        "Redwood Forests",
+        "Haystack Rock",
+        "Hoh Rainforest",
+        "Vancouver Seawall",
+        "Joffre Lakes",
+        "Space Needle",
+        "Multnomah Falls",
+        "Smith Rock",
+        "Crater Lake",
+        "Burney Falls"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Central California Coast",
+          "destination_link": "/destinations/california/upper-central-california-coast-southbound-attractions-guide"
+        },
+        {
+          "destination_name": "Point Reyes",
+          "destination_link": "/destinations/california/point-reyes-and-mt-tamalpais-attractions-guide"
+        },
+        {
+          "destination_name": "Mt. Baker & North Cascades N.P.",
+          "destination_link": "/destinations/washington/mount-baker-and-north-cascades-attractions-guide"
+        },
+        {
+          "destination_name": "Mt. St. Helens",
+          "destination_link": "/destinations/washington/mount-st-helens-attractions-guide"
+        },
+        {
+          "destination_name": "Williamette N.F.",
+          "destination_link": "/destinations/oregon/williamette-national-forest-attractions-guide"
+        },
+        {
+          "destination_name": "Lake Tahoe",
+          "destination_link": "/destinations/california/lake-tahoe-attractions-guide"
+        },
+        {
+          "destination_name": "Bodie & Lake Mono",
+          "destination_link": "/destinations/california/bodie-and-mono-county-attractions-guide"
+        },
+        {
+          "destination_name": "Yosemite National Park",
+          "destination_link": "/destinations/california/yosemite-valley-yosemite-national-park-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "utah-arizona",
+      "itinerary_link": "/itineraries/utah-and-arizona-road-trip-itinerary-and-top-attractions",
+      "itinerary_title": "Utah & Arizona",
+      "itinerary_title_line_2": "Road Trip Itinerary",
+      "itinerary_length": "2 - 3 Weeks",
+      "by_train": false,
+      "road_trip": true,
+      "carousel_items": [
+        {
+          "image_location": "Las Vegas, Nevada",
+          "image_url": "https://www.travelimager.com/images/nevada/Nevada-Las-Vegas-Bellagio-Fountain.jpg",
+          "image_alt": "Famous fountain show at the Bellagio Casino in the middle of the Las Vegas Strip of Las Vegas, Nevada"
+        },
+        {
+          "image_location": "Zion National Park, Utah",
+          "image_url": "https://www.travelimager.com/images/utah/Utah-Zion-National-Park-Zion-Canyon-Kayenta-Trail-View-and-Virgin-River-Sunset.jpg",
+          "image_alt": "Sunset lighthing up Zion Canyon around the Virgin River seen from the Kayenta Trail in Zion National Park, Utah"
+        },
+        {
+          "image_location": "Bryce Canyon National Park, Utah",
+          "image_url": "https://www.travelimager.com/images/utah/Utah-Bryce-Canyon-National-Park-Bryce-Point.jpg",
+          "image_alt": "Iconic view overlooking countless hoodoo formations seen from high above at Bryce Point in Bryce Canyon National Park, Utah"
+        },
+        {
+          "image_location": "Canyonlands National Park, Utah",
+          "image_url": "https://www.travelimager.com/images/utah/Utah-Canyonlands-National-Park-Mesa-Arch-Sunrise-and-Canyons.jpg",
+          "image_alt": "Mesa Arch with its bottom side glowing from sunrise colors in front of the vast canyons of Canyonlands National Park, Utah"
+        },
+        {
+          "image_location": "Arches National Park, Utah",
+          "image_url": "https://www.travelimager.com/images/utah/Utah-Arches-National-Park-Delicate-Arch-Glowing.jpg",
+          "image_alt": "Glowing colors on famous Delicate Arch located in Moab's Arches National Park, Utah"
+        },
+        {
+          "image_location": "Mesa Verde National Park, Colorado",
+          "image_url": "https://www.travelimager.com/images/colorado/Colorado-Mesa-Verde-National-Park-Cliff-Palace-Cliff-Dwellings-View.jpg",
+          "image_alt": "View overlooking the long Cliff Palace cliff dwelling village in teh canyons of Mesa Verde National Park, Colorado"
+        },
+        {
+          "image_location": "Monument Valley, Utah/Arizona",
+          "image_url": "https://www.travelimager.com/images/utah/Utah-Monument-Valley-Monument-Valley-Buttes.jpg",
+          "image_alt": "Sunrise over the iconic Buttes of Monument Valley in the Navajo Tribal Park on the border of Arizona and Utah"
+        },
+        {
+          "image_location": "Petrified Forest National Park, Arizona",
+          "image_url": "https://www.travelimager.com/images/arizona/Arizona-Petrfied-Forest-National-Park-Blue-Mesas-and-Petrified-Logs.jpg",
+          "image_alt": "Crystallized ancient petrfied wooden logs in front of the stunning blue mesas of Petrified Forest National Park, Arizona"
+        },
+        {
+          "image_location": "Sedona, Arizona",
+          "image_url": "https://www.travelimager.com/images/arizona/Arizona-Sedona-Airport-Mesa-Vortex-View.jpg",
+          "image_alt": "View from the Airport Mesa Vortex overlooking Courthouse Butte, Bell Rock, and famous rock formations of Sedona, Arizona"
+        },
+        {
+          "image_location": "Grand Canyon, Arizona",
+          "image_url": "https://www.travelimager.com/images/arizona/Arizona-South-Rim-Grand-Canyon-National-Park-Desert-View-Watchtower.jpg",
+          "image_alt": "Desert View Watchtower ovrelooking the Grand Canyon along the South Rim of Grand Canyon National Park, Arizona"
+        },
+        {
+          "image_location": "Page, Arizona",
+          "image_url": "https://www.travelimager.com/images/arizona/Arizona-Page-Horseshoe-Bend-2.jpg",
+          "image_alt": "Wide view overlooking the iconic Horseshoe Bend, a massive natural bend in the Colorado River in Page, Northern Arizona"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Las Vegas, Nevada",
+          "destination_link": "/destinations/nevada/las-vegas-attractions-guide"
+        },
+        {
+          "destination_name": "Zion National Park",
+          "destination_link": "/destinations/utah/zion-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Bryce Canyon National Park",
+          "destination_link": "/destinations/utah/bryce-canyon-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Canyonlands National Park",
+          "destination_link": "/destinations/utah/canyonlands-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Arches National Park",
+          "destination_link": "/destinations/utah/arches-national-park-and-moab-attractions-guide"
+        },
+        {
+          "destination_name": "Mesa Verde National Park",
+          "destination_link": "/destinations/colorado/mesa-verde-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Monument Valley",
+          "destination_link": "/destinations/utah/monument-valley-attractions-guide"
+        },
+        {
+          "destination_name": "Petrified Forest National Park",
+          "destination_link": "/destinations/arizona/petrified-forest-national-park-attractions-guide"
+        },
+        {
+          "destination_name": "Sedona",
+          "destination_link": "/destinations/arizona/sedona-attractions-guide"
+        },
+        {
+          "destination_name": "Grand Canyon National Park",
+          "destination_link": "/destinations/arizona/south-rim-grand-canyon-attractions-guide"
+        },
+        {
+          "destination_name": "Page, AZ",
+          "destination_link": "/destinations/arizona/page-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Angel's Landing",
+        "Bryce Point",
+        "Dead Horse Point",
+        "Mesa Arch",
+        "Delicate Arch ",
+        "Corona Arch",
+        "Cliff Palace",
+        "Devil's Bridge",
+        "Grand Canyon",
+        "Horseshoe Bend ",
+        "Antelope Canyons"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Valley of Fire",
+          "destination_link": "/destinations/nevada/valley-of-fire-attractions-guide"
+        },
+        {
+          "destination_name": "Cedar Breaks & Kolob Canyons",
+          "destination_link": "/destinations/utah/cedar-breaks-and-kolob-canyons-attractions-guide"
+        },
+        {
+          "destination_name": "Capitol Reef N.P. & Goblin Valley",
+          "destination_link": "/destinations/utah/capitol-reef-and-goblin-valley-attractions-guide"
+        },
+        {
+          "destination_name": "Colorado N.M.",
+          "destination_link": "/destinations/colorado/colorado-national-monument-attractions-guide"
+        },
+        {
+          "destination_name": "Valley of the Gods & Natural Bridges",
+          "destination_link": "/destinations/utah/valley-of-the-gods-and-natural-bridges-attractions-guide"
+        },
+        {
+          "destination_name": "Canyon de Chelly N.M.",
+          "destination_link": "/destinations/arizona/canyon-de-chelly-national-monument-attractions-guide"
+        },
+        {
+          "destination_name": "Phoenix",
+          "destination_link": "/destinations/arizona/phoenix-attractions-guide"
+        },
+        {
+          "destination_name": "Flagstaff",
+          "destination_link": "/destinations/arizona/flagstaff-attractions-guide"
+        },
+        {
+          "destination_name": "North Rim",
+          "destination_link": "/destinations/arizona/north-rim-grand-canyon-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "southern-california",
+      "itinerary_link": "/itineraries/southern-california-road-trip-itinerary-and-top-attractions",
+      "itinerary_title": "Southern California",
+      "itinerary_title_line_2": "Road Trip Itinerary",
+      "itinerary_length": "1 - 2 Weeks",
+      "by_train": false,
+      "road_trip": true,
+      "carousel_items": [
+        {
+          "image_location": "Los Angeles",
+          "image_url": "https://www.travelimager.com/images/california/California-Los-Angeles-Griffith-Observatory-Sunset.jpg",
+          "image_alt": "Stunning sunset view overlooking Los Angeles from the Griffith Observatory in the hills above Los Angeles, California"
+        },
+        {
+          "image_location": "Lower Central California Coast & Big Sur",
+          "image_url": "https://www.travelimager.com/images/california/California-Central-Coast-Big-Sur-Julia-Pfeiffer-Burns-State-Park-McWay-Falls-and-Cove-Overlook.jpg",
+          "image_alt": "Overlooking the cove and McWay Falls waterfall of Julia Pfeiffer Burns State Park along the Central California Coast in Big Sur, California"
+        },
+        {
+          "image_location": "Orange County & Laguna Beach",
+          "image_url": "https://www.travelimager.com/images/california/California-Orange-County-Huntington-Beach-Huntington-Beach-Pier.jpg",
+          "image_alt": "Sunset drone shot overlooking Orange County's Huntington Beach Pier along the Pacific Coastline of Southern California"
+        },
+        {
+          "image_location": "San Diego",
+          "image_url": "https://www.travelimager.com/images/california/California-San-Diego-La-Jolla-Coast-and-Cliffs-Sunset.jpg",
+          "image_alt": "View overlooking the ocean and La Jolla Coastline of San Diego, California at sunset"
+        },
+        {
+          "image_location": "Joshua Tree National Park",
+          "image_url": "https://www.travelimager.com/images/california/California-Joshua-Tree-National-Park-Rocky-Desert-Landscape-and-Joshua-Trees.jpg",
+          "image_alt": "Single Joshua tree seen amongst the rocky barren desert landscape of Joshua Tree National Park in Southern California"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Los Angeles County",
+          "destination_link": "/destinations/california/los-angeles-attractions-guide"
+        },
+        {
+          "destination_name": "Lower Central California Coast & Big Sur",
+          "destination_link": "/destinations/california/lower-central-california-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Orange County",
+          "destination_link": "/destinations/california/orange-county-attractions-guide"
+        },
+        {
+          "destination_name": "San Diego",
+          "destination_link": "/destinations/california/san-diego-attractions-guide"
+        },
+        {
+          "destination_name": "Joshua Tree National Park",
+          "destination_link": "/destinations/california/joshua-tree-national-park-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Griffith Observatory",
+        "Hollywood",
+        "Santa Monica",
+        "Venice Beach",
+        "Solvang",
+        "McWay Falls",
+        "Huntington Beach",
+        "Laguna Beach",
+        "San Diego Zoo",
+        "La Jolla",
+        "Cabrillo N.M.",
+        "Skull Rock"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Upper Central Coast",
+          "destination_link": "/destinations/california/upper-central-california-coast-attractions-guide"
+        },
+        {
+          "destination_name": "Sequoia & King's Canyon N.P.",
+          "destination_link": "/destinations/california/sequoia-and-kings-canyon-national-parks-attractions-guide"
+        },
+        {
+          "destination_name": "Coachella Valley & Palm Springs",
+          "destination_link": "/destinations/california/coachella-valley-and-palm-springs-attractions-guide"
+        },
+        {
+          "destination_name": "Grand Canyon",
+          "destination_link": "/destinations/arizona/south-rim-grand-canyon-attractions-guide"
+        },
+        {
+          "destination_name": "Las Vegas",
+          "destination_link": "/destinations/nevada/las-vegas-attractions-guide"
+        },
+        {
+          "destination_name": "Death Valley N.P.",
+          "destination_link": "/destinations/california/death-valley-national-park-attractions-guide"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "itinerary_link": "/itineraries/france-travel-itinerary-and-top-attractions-by-train",
+      "itinerary_title": "France",
+      "itinerary_title_line_2": "Travel Itinerary",
+      "itinerary_length": "2 - 4 Weeks",
+      "by_train": true,
+      "road_trip": false,
+      "carousel_items": [
+        {
+          "image_location": "Paris, France",
+          "image_url": "https://www.travelimager.com/images/france/France-Paris-Notre-Dame-Cathedral-Facade.jpg",
+          "image_alt": "Elegant facade of the famous Notre Dame Cathedral on Ile de la Cite island in Paris, France"
+        },
+        {
+          "image_location": "Versailles",
+          "image_url": "https://www.travelimager.com/images/france/France-Greater-Paris-Versailles-Palace-of-Versailles-Gardens-and-Fountains.jpg",
+          "image_alt": "Overlooking the vast gardens and parkland of the Palace of Versailles from behind a fountain on the palace terrace, near Paris, France"
+        },
+        {
+          "image_location": "Colmar",
+          "image_url": "https://www.travelimager.com/images/france/France-Colmar-La-Petite-Venise-Half-Timbered-Homes-and-Canal-Flowers.jpg",
+          "image_alt": "Half-timbered homes and flowers along a canal in La Petite Venise district of Colmar, Eastern France"
+        },
+        {
+          "image_location": "Strasbourg",
+          "image_url": "https://www.travelimager.com/images/france/France-Strasbourg-Petite-France-Ponts-Couverts-Bridges-and-Medieval-Towers.jpg",
+          "image_alt": "Ponts Couverts bridges spanning the river with medeival guard towers in La Petite France area of Strasbourg, France"
+        },
+        {
+          "image_location": "Lyon",
+          "image_url": "https://www.travelimager.com/images/france/France-Lyon-Vieux-Lyon-Historic-Center-and-Notre-Dame-de-la-Garde-Cathedral.jpg",
+          "image_alt": "Vieux Lyon Old Town district with city's oldest church below the hilltop Notre Dame de la Garde Cathedral in Lyon, France"
+        },
+        {
+          "image_location": "Nimes & Carcassonne Castle",
+          "image_url": "https://www.travelimager.com/images/france/France-Carcassonne-Cite-de-Carcassonne-Wide-View.jpg",
+          "image_alt": "Wide view of the entire Cite de Carcassonne castle city surrounded by medieval walls in Southern France between Nimes and Barcelona"
+        },
+        {
+          "image_location": "Avignon & Arles",
+          "image_url": "https://www.travelimager.com/images/france/France-Provence-Vers-Pont-du-Gard-Pont-du-Gard-Ancient-Roman-Aqueduct-Bridge-Riverside-View.jpg",
+          "image_alt": "Ancient Roman aqueduct of Pont du Gard located near Avignon and Nimes in Vers Pont du Gard, Provence, Southern France"
+        },
+        {
+          "image_location": "Marseille & Cassis Calanques",
+          "image_url": "https://www.travelimager.com/images/france/France-Marseille-Cassis-Calanques-National-Park-Calanque-de-Sormiou-Overlook.jpg",
+          "image_alt": "Overlooking the Calanque de Sormiou of Calanques National Park in Cassis near Marseille in Southern France"
+        },
+        {
+          "image_location": "Nice",
+          "image_url": "https://www.travelimager.com/images/france/France-Nice-Mont-Alban-View-over-Villefranche-sur-Mer-Coastline-and-Saint-Jean-Cap-Ferrat.jpg",
+          "image_alt": "View overlooking the Saint-Jean-Cap-Ferrat peninsula behind Villefranche-sur-Mer from atop Mont Alban in Nice along the Cote d'Azur of Southern France"
+        },
+        {
+          "image_location": "Monaco",
+          "image_url": "https://www.travelimager.com/images/monaco/Monaco-Monaco-Coastline-Aerial-Night.jpg",
+          "image_alt": "Night view overlooking the illuminated city and coastline of Monaco from La Turbie, France"
+        }
+      ],
+      "itinerary_destinations": [
+        {
+          "destination_name": "Paris",
+          "destination_link": "/destinations/france/paris-attractions-guide"
+        },
+        {
+          "destination_name": "Versailles",
+          "destination_link": "/destinations/france/greater-paris-attractions-guide"
+        },
+        {
+          "destination_name": "Colmar",
+          "destination_link": "/destinations/france/colmar-attractions-guide"
+        },
+        {
+          "destination_name": "Strasbourg",
+          "destination_link": "/destinations/france/strasbourg-attractions-guide"
+        },
+        {
+          "destination_name": "Lyon",
+          "destination_link": "/destinations/france/lyon-attractions-guide"
+        },
+        {
+          "destination_name": "Nimes & Carcassonne",
+          "destination_link": "/destinations/france/carcassonne-and-nimes-attractions-guide"
+        },
+        {
+          "destination_name": "Avignon & Arles",
+          "destination_link": "/destinations/france/avignon-and-arles-attractions-guide"
+        },
+        {
+          "destination_name": "Marseille",
+          "destination_link": "/destinations/france/marseille-and-cassis-attractions-guide"
+        },
+        {
+          "destination_name": "Nice",
+          "destination_link": "/destinations/france/nice-attractions-guide"
+        },
+        {
+          "destination_name": "Monaco",
+          "destination_link": "/destinations/monaco-attractions-guide"
+        }
+      ],
+      "main_attractions": [
+        "Notre Dame",
+        "Sacre-Couer",
+        "La Petite Venise",
+        "Petite France",
+        "Carcassonne Castle",
+        "Pont du Gard",
+        "Avignon Papal Palace",
+        "Calanques National Park",
+        "Eze",
+        "Casino Monte Carlo",
+        "Menton"
+      ],
+      "trip_extension_options": [
+        {
+          "destination_name": "Loire Valley",
+          "destination_link": "/destinations/france/loire-valley-attractions-guide-by-train"
+        },
+        {
+          "destination_name": "Luxembourg City",
+          "destination_link": "/destinations/luxembourg-city-attractions-guide"
+        },
+        {
+          "destination_name": "Cinque Terre",
+          "destination_link": "/destinations/italy/cinque-terre-attractions-guide"
+        }
+      ]
+    }
+  ]
+}

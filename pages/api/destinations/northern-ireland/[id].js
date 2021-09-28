@@ -1,4 +1,3 @@
-// import { attractionGuides } from '../../../../data/attractions/northern-ireland';
 const {
 	attractionGuides
 } = require('../../../../data/attractions/northern-ireland.json');

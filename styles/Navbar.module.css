@@ -161,7 +161,8 @@ h2.menu_item_title_active {
 	cursor: pointer;
 }
 
-.menu_item > .submenu {
+.menu_item > .submenu,
+.menu_item > .submenuHide {
 	opacity: 0;
 	background-color: var(--bright-white);
 	text-align: left;
@@ -179,7 +180,8 @@ h2.menu_item_title_active {
 	box-shadow: 0px 16px 16px -16px var(--shadow-black);
 }
 
-.submenu > .submenu_column {
+.submenu > .submenu_column,
+.submenuHide > .submenu_column {
 	flex: 1;
 }
 
@@ -286,6 +288,10 @@ h2.menu_item_title_active {
 		cursor: default;
 	}
 
+	h2.menu_item_title_active {
+		color: var(--bright-white);
+	}
+
 	.mega_site_nav {
 		height: 6rem;
 	}
@@ -332,9 +338,11 @@ h2.menu_item_title_active {
 	.site_logo {
 		display: inline-block;
 	}
-	.menu_item .submenu {
+	.menu_item .submenu,
+	.menu_item {
 		top: 6rem;
 	}
+
 	.submenu_column_heading,
 	.submenu_column_list > li > a {
 		padding-left: 3rem;

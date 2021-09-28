@@ -3,11 +3,14 @@ import Image from 'next/image';
 import { FiArrowLeftCircle, FiArrowRightCircle } from 'react-icons/fi';
 
 import styles from '../../styles/Carousel.module.css';
+import singleStyles from '../../styles/Homepage.module.css';
 
-function Carousel({ attractions, carousel_id, itineraryCarousel, size }) {
+function Carousel({ attractions, carousel_id, itineraryCarousel, size, singleCarousel }) {
 	const carouselItems = itineraryCarousel
 		? attractions
-		: attractions[carousel_id].map((carousel) => carousel);
+		: singleCarousel
+			? (attractions = attractions)
+			: attractions[carousel_id].map((carousel) => carousel);
 
 	const [ index, setIndex ] = useState(0);
 	const [ prevBtnTimeout, setPrevBtnTimeout ] = useState(false);
@@ -58,7 +61,7 @@ function Carousel({ attractions, carousel_id, itineraryCarousel, size }) {
 
 	const cloned = carouselItems.slice();
 
-	if (carouselItems.length === 4) {
+	if (carouselItems.length === 4 && !singleCarousel) {
 		const firstClone = carouselItems[0];
 		const secondClone = carouselItems[1];
 		const secondToLastClone = carouselItems[carouselItems.length - 2];
@@ -74,7 +77,7 @@ function Carousel({ attractions, carousel_id, itineraryCarousel, size }) {
 		cloned.push(lastClone);
 	}
 
-	if (carouselItems.length === 3) {
+	if (carouselItems.length === 3 && !singleCarousel) {
 		const firstClone = carouselItems[0];
 		const secondClone = carouselItems[1];
 		const lastClone = carouselItems[carouselItems.length - 1];
@@ -88,116 +91,198 @@ function Carousel({ attractions, carousel_id, itineraryCarousel, size }) {
 	}
 
 	return (
-		<section className={styles.carouselWrapper}>
-			<div className={styles['carousel-standard']}>
-				<div className={styles.carouselItems}>
-					{cloned.map((carouselItem, carouselIndex) => {
-						const {
-							attraction,
-							image_url,
-							image_alt,
-							cc_image_url,
-							cc_author_url,
-							cc_author,
-							cc_license,
-							cc_license_url
-						} = carouselItem;
+		<React.Fragment>
+			<section className={styles.carouselWrapper}>
+				<div className={styles['carousel-standard']}>
+					{!singleCarousel && (
+						<div className={styles.carouselItems}>
+							{cloned.map((carouselItem, carouselIndex) => {
+								const {
+									attraction,
+									image_url,
+									image_alt,
+									cc_image_url,
+									cc_author_url,
+									cc_author,
+									cc_license,
+									cc_license_url
+								} = carouselItem;
 
-						let position = 'nextSlide';
+								let position = 'nextSlide';
 
-						if (carouselIndex === index) {
-							position = 'activeSlide';
-						}
-						if (
-							size >= 501 &&
-							(carouselIndex === index + 1 ||
-								(carouselIndex === 0 && index === cloned.length - 1))
-						) {
-							position = 'activeSlide2';
-						}
-
-						if (
-							size >= 800 &&
-							(carouselIndex === index + 2 ||
-								(carouselIndex === 0 && index === cloned.length - 2) ||
-								(carouselIndex === 1 && index === cloned.length - 1))
-						) {
-							position = 'activeSlide3';
-						}
-
-						if (
-							carouselIndex === index - 1 ||
-							(index === 0 && carouselIndex === cloned.length - 1)
-						) {
-							position = 'lastSlide';
-						}
-
-						return (
-							<div
-								key={`carousel-${carouselIndex + 1}`}
-								className={
-									styles[position] + ' ' + styles['carouselItem']
+								if (carouselIndex === index) {
+									position = 'activeSlide';
 								}
-							>
-								<Image
-									alt={image_alt}
-									src={image_url}
-									width={640}
-									height={480}
-								/>
-								<p className={styles['carousel-item-text']}>
-									<strong className={styles['carousel-item-title']}>
-										{attraction}
-									</strong>
-									<br />
-									<span className={styles['carousel-item-credits']}>
-										<a
-											href={cc_image_url}
-											target="_blank"
-											rel="noopener noreferrer"
-										>
-											Photo
-										</a>{' '}
-										by{' '}
-										<a
-											href={cc_author_url}
-											target="_blank"
-											rel="noopener noreferrer"
-										>
-											{cc_author}
-										</a>
-										<br />
-										{cc_license === null ? (
-											<i>Edited</i>
-										) : (
-											<React.Fragment>
+								if (
+									size >= 501 &&
+									(carouselIndex === index + 1 ||
+										(carouselIndex === 0 &&
+											index === cloned.length - 1))
+								) {
+									position = 'activeSlide2';
+								}
+
+								if (
+									size >= 800 &&
+									(carouselIndex === index + 2 ||
+										(carouselIndex === 0 &&
+											index === cloned.length - 2) ||
+										(carouselIndex === 1 &&
+											index === cloned.length - 1))
+								) {
+									position = 'activeSlide3';
+								}
+
+								if (
+									carouselIndex === index - 1 ||
+									(index === 0 && carouselIndex === cloned.length - 1)
+								) {
+									position = 'lastSlide';
+								}
+
+								return (
+									<div
+										key={`carousel-${carouselIndex + 1}`}
+										className={
+											styles[position] +
+											' ' +
+											styles['carouselItem']
+										}
+									>
+										<Image
+											alt={image_alt}
+											src={image_url}
+											width={640}
+											height={480}
+										/>
+										<p className={styles['carousel-item-text']}>
+											<strong
+												className={styles['carousel-item-title']}
+											>
+												{attraction}
+											</strong>
+											<br />
+											<span
+												className={
+													styles['carousel-item-credits']
+												}
+											>
 												<a
-													href={cc_license_url}
+													href={cc_image_url}
 													target="_blank"
 													rel="noopener noreferrer"
 												>
-													{cc_license}
+													Photo
+												</a>{' '}
+												by{' '}
+												<a
+													href={cc_author_url}
+													target="_blank"
+													rel="noopener noreferrer"
+												>
+													{cc_author}
 												</a>
-												{' | '}
-												<i>Edited</i>
-											</React.Fragment>
-										)}
-									</span>
-								</p>
-							</div>
-						);
-					})}
+												<br />
+												{cc_license === null ? (
+													<i>Edited</i>
+												) : (
+													<React.Fragment>
+														<a
+															href={cc_license_url}
+															target="_blank"
+															rel="noopener noreferrer"
+														>
+															{cc_license}
+														</a>
+														{' | '}
+														<i>Edited</i>
+													</React.Fragment>
+												)}
+											</span>
+										</p>
+									</div>
+								);
+							})}
+						</div>
+					)}
+					{singleCarousel && (
+						<div className={singleStyles.singleCarouselItems}>
+							{cloned.map((carouselItem, carouselIndex) => {
+								const {
+									image_location,
+									image_url,
+									image_alt
+								} = carouselItem;
+
+								let position = 'nextSlide';
+								if (carouselIndex === index) {
+									position = 'activeSlide';
+								}
+								if (
+									carouselIndex === index - 1 ||
+									(index === 0 &&
+										carouselIndex === carouselItems.length - 1)
+								) {
+									position = 'lastSlide';
+								}
+
+								return (
+									<div
+										key={carouselIndex}
+										className={
+											styles[position] +
+											' ' +
+											styles['carouselItem'] +
+											' ' +
+											singleStyles['single-carousel-container']
+										}
+									>
+										<Image
+											className={
+												singleStyles['single-carousel-image']
+											}
+											alt={image_alt}
+											src={image_url}
+											width={640}
+											height={480}
+										/>
+										<div
+											className={
+												singleStyles['single-carousel-text']
+											}
+										>
+											<h3
+												className={
+													singleStyles['single-carousel-title']
+												}
+											>
+												{image_location}
+											</h3>
+										</div>
+									</div>
+								);
+							})}
+						</div>
+					)}
 				</div>
-			</div>
-			<div className={styles.dotsContainer}>
-				<button className={styles.prev} onClick={prevBtnTimeout ? null : prevBtn}>
-					<FiArrowLeftCircle className={styles.icon} />
-				</button>
-				<button className={styles.next} onClick={nextBtnTimeout ? null : nextBtn}>
-					<FiArrowRightCircle className={styles.icon} />
-				</button>
-			</div>
-		</section>
+				{!singleCarousel && (
+					<div className={styles.dotsContainer}>
+						<button
+							className={styles.prev}
+							onClick={prevBtnTimeout ? null : prevBtn}
+						>
+							<FiArrowLeftCircle className={styles.icon} />
+						</button>
+						<button
+							className={styles.next}
+							onClick={nextBtnTimeout ? null : nextBtn}
+						>
+							<FiArrowRightCircle className={styles.icon} />
+						</button>
+					</div>
+				)}
+			</section>
+		</React.Fragment>
 	);
 }
 

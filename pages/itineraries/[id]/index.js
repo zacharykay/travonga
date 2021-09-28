@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 
-import { server } from '../../../config';
 import Itinerary from '../../../components/itineraries/Itinerary';
 const { itineraries } = require('../../../data/itineraries.json');
 

@@ -1,4 +1,3 @@
-import { server } from '../../../../config';
 import AttractionsGuide from '../../../../components/attraction_guides/AttractionsGuide';
 
 const { attractionGuides } = require('../../../../data/attractions/slovenia.json');

@@ -25,13 +25,13 @@ const Meta = ({ meta }) => {
 };
 
 Meta.defaultProps = {
-	page_title: 'Travonga Travel Itineraries & Destination Guides',
+	page_title: 'Travonga Travel Itineraries & Destination Guides for Europe & USA',
 	thumbnail:
 		'https://www.travelimager.com/images/utah/Utah-Moab-Arches-National-Park-Delicate-Arch-Golden-Hour-Travonga-Homepage-Thumbnail-150x150.jpg',
-	meta_description: `Plan the perfect trip with Travonga's travel itineraries, discover and save top attractions lists to your phone`,
+	meta_description: `Plan the perfect trips with our detailed Travel Itineraries and Attraction Guides for Europe, Western USA, and British Columbia's top attractions`,
 	meta_keywords:
-		'travel destinations, attractions guide, travel itineraries, trip itinerary',
-	social_media_title: 'Travonga Travel Itineraries',
+		'travel destinations, attractions guide, travel itineraries, trip itinerary, europe itineraries, road trip itineraries, travel attractions, itinerary attractions',
+	social_media_title: 'Travonga Travel Itineraries & Attractions',
 	social_media_thumbnail:
 		'https://www.travelimager.com/images/utah/Utah-Moab-Arches-National-Park-Delicate-Arch-Golden-Hour-Travonga-Homepage-Thumbnail-150x150.jpg'
 };

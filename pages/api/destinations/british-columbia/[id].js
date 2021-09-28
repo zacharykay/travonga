@@ -1,4 +1,3 @@
-// import { attractionGuides } from '../../../../data/attractions/british-columbia';
 const {
 	attractionGuides
 } = require('../../../../data/attractions/british-columbia.json');

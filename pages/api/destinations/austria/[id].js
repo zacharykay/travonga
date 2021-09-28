@@ -1,12 +1,4 @@
-// import { attractionGuides } from '../../../../data/attractions/austria';
 const { attractionGuides } = require('../../../../data/attractions/austria.json');
-
-// import { apiServer } from '../../../../config';
-
-// export default async function handler({ query: { id } }, res) {
-// 	const response = await fetch(`${apiServer}/attractions/austria.json`);
-// 	const { attractionGuides } = await response.json();
-// 	const filtered = await attractionGuides.filter((guide) => guide.id === id);
 
 export default function handler({ query: { id } }, res) {
 	const filtered = attractionGuides.filter((guide) => guide.id === id);

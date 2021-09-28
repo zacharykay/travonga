@@ -1,4 +1,3 @@
-import { server } from '../../../config';
 import DestinationsPage from '../../../components/destinations/DestinationsPage';
 
 const { destinations } = require('../../../data/destinations.json');
@@ -11,8 +10,6 @@ const destination = ({ data }) => {
 };
 
 export const getStaticProps = async (context) => {
-	// const response = await fetch(`${server}/api/destinations/${context.params.id}`);
-	// const data = await response.json();
 	const id = context.params.id;
 	const filtered = destinations.filter((item) => {
 		return item.id === id;
@@ -26,9 +23,6 @@ export const getStaticProps = async (context) => {
 };
 
 export const getStaticPaths = async () => {
-	// const response = await fetch(`${server}/api/destinations`);
-	// const data = await response.json();
-
 	const ids = destinations.map((place) => place.id);
 	const paths = ids.map((id) => {
 		return { params: { id: id.toString() } };

@@ -1,4 +1,3 @@
-// import { itineraries } from '../../../data/itineraries';
 const { itineraries } = require('../../../data/itineraries.json');
 
 export default function handler({ query: { id } }, res) {

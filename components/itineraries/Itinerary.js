@@ -3,9 +3,6 @@ import { itinerarySections } from '../../data/itinerarySections';
 import ItinerarySection from './ItinerarySection';
 
 const Itinerary = ({ data, size }) => {
-	// const filteredItineraries = itinerarySections.filter((section) => {
-	// 	return section.itineraries.includes(`${data.itinerary_name}`);
-	// });
 
 	const {
 		itineraryName,
@@ -35,16 +32,12 @@ const Itinerary = ({ data, size }) => {
 			{data.itinerary.map((itineraryLegend, index) => {
 				const { id } = itineraryLegend;
 				const itinerarySection = itinerarySections[id]
-				// const filtered = filteredItineraries.filter((filteredItem) => {
-				// 	return filteredItem.id === id;
-				// });
 
 				return (
 					<ItinerarySection
 						key={index}
 						{...itineraryLegend}
 						{...itinerarySection}
-						// {...filtered[0]}
 						size={size}
 						index={index}
 						length={itineraryLength}

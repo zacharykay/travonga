@@ -1,4 +1,3 @@
-// import { attractionGuides } from '../../../../data/attractions/nevada';
 const { attractionGuides } = require('../../../../data/attractions/nevada.json');
 
 export default function handler(req, res) {

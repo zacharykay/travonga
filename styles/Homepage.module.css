@@ -1,0 +1,153 @@
+.singleCarouselItems {
+	position: relative;
+	height: calc(calc(var(--single-carousel-width) * .75) + 26rem);
+}
+
+.single-carousel-container,
+.itinerary-info-container-home {
+	/* max-width: 48rem; */
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+}
+
+/* Specificity to override width from .carouselItem in Carousel.module.css used for Multi-slide carousels */
+div.single-carousel-container {
+	padding-top: 2rem;
+	position: absolute;
+	background-color: var(--bright-white);
+	top: 0;
+	width: 100%;
+	height: (--carousel-img-height);
+	height: 100%;
+	transition: .2s ease-in-out;
+}
+
+.single-carousel-image {
+	display: block;
+	width: 100%;
+	height: calc(var(--single-carousel-width) * .75);
+	max-width: 48rem;
+	max-height: 36rem;
+}
+
+.single-carousel-title {
+	margin-top: 0rem;
+	color: #333333;
+	font-size: 2rem;
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Open Sans', Sans-serif;
+	line-height: 2.4rem;
+}
+
+.single-carousel-text {
+	text-align: center;
+	margin-top: 0.8rem;
+}
+
+.itinerary-title-home {
+	margin-bottom: -1rem;
+	margin-top: 0rem;
+	max-width: 48rem;
+	font-size: 2.5rem;
+	line-height: 3rem;
+}
+
+.two-itinerary-flexbox-home {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-evenly;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	max-width: 120rem;
+}
+
+.flex-container-home {
+	width: 92%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2rem;
+}
+
+.homepage-title {
+	max-width: 120rem;
+}
+
+.itinerary-summary-home {
+	font-style: italic;
+}
+
+.itinerary-summary-title-home {
+	padding-top: 1rem;
+	text-align: left;
+	font-family: 'Pt Sans', Sans-serif;
+	margin-bottom: -1rem;
+	text-decoration: underline;
+}
+
+.itinerary-length-home {
+	text-align: center;
+	font-style: italic;
+	font-size: 1.7rem;
+	font-family: 'Open Sans', Sans-serif;
+	font-weight: bold;
+	margin-top: 0rem;
+}
+
+.itinerary-top-attractions-home {
+	padding-top: 1rem;
+	text-align: center;
+	padding-bottom: 2.4rem;
+}
+
+.itinerary-info-container-home {
+	padding-bottom: 0.6rem;
+	border-bottom: 0.1rem solid #ededed;
+}
+
+@media (min-width: 550px) {
+	.singleCarouselItems {
+		height: calc(calc(var(--single-carousel-width) * .75) + 30rem);
+	}
+}
+
+@media (min-width: 640px) {
+	.singleCarouselItems {
+		height: calc(calc(var(--single-carousel-width) * .75) + 9.5rem);
+	}
+	.flex-container-home {
+		width: 45%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 4rem;
+	}
+	.single-carousel-title {
+		min-height: 4rem;
+	}
+	.itinerary-info-container-home {
+		border-bottom: none;
+	}
+}
+
+@media (min-width: 800px) {
+	.itinerary-title-home {
+		margin-bottom: 0rem;
+		font-size: 3.2rem;
+		line-height: 4rem;
+	}
+	.itinerary-length-home {
+		font-size: 2rem;
+	}
+	.homepage-title {
+		margin-bottom: 3rem;
+	}
+}
+
+@media (min-width: 1180px) {
+	.singleCarouselItems {
+		height: 49rem;
+	}
+}

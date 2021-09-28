@@ -40,6 +40,7 @@ yarn-error.log*
 /styles/_config.scss
 /styles/styles.scss
 
+/components/widgets/SingleCarousel.js
 /pages/api/attractions
 /pages/api/destinations/[stateName]
 /data/attractions/temp.js

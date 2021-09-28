@@ -1,4 +1,3 @@
-// import { attractionGuides } from '../../../../data/attractions/california';
 const { attractionGuides } = require('../../../../data/attractions/california.json');
 
 export default function handler({ query: { id } }, res) {

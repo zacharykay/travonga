@@ -116,22 +116,13 @@
 	height: 8.6rem;
 }
 
-/* .itinerary_page_nav_18,
-.itinerary_page_nav_18_long {
-	font-size: 1.2rem;
-	display: grid;
-	grid-template-columns: repeat(6, auto);
-	justify-content: space-evenly;
-	align-content: space-around;
-	height: 9.4rem;
-} */
 .itinerary_page_nav_18 {
 	font-size: 1.2rem;
 	display: grid;
 	grid-template-columns: repeat(6, auto);
 	justify-content: space-evenly;
 	align-content: space-around;
-	height: 9.4rem;
+	height: 9.6rem;
 }
 
 .itinerary_page_nav_24 {
@@ -157,17 +148,6 @@
 	.itinerary_page_nav_12 {
 		font-size: 1.4rem;
 	}
-	/* .itinerary_page_nav_18 {
-		font-size: 1.3rem;
-		grid-template-columns: repeat(8, auto);
-		height: 9rem;
-	}
-	.itinerary_page_nav_18_long {
-		height: 9rem;
-	} */
-	.itinerary_page_nav_18 {
-		height: 9rem;
-	}
 }
 
 @media (min-width: 501px) {
@@ -176,9 +156,6 @@
 		grid-template-columns: repeat(8, auto);
 		height: 8.2rem;
 	}
-	/* .itinerary_page_nav_18 {
-		font-size: 1.3rem;
-	} */
 }
 
 @media (min-width: 640px) {
@@ -213,16 +190,6 @@
 		grid-template-columns: repeat(10, auto);
 		height: 7.2rem;
 	}
-	/* .itinerary_page_nav_18 {
-		font-size: 1.4rem;
-		grid-template-columns: repeat(12, auto);
-		height: 8.8rem;
-	}
-	.itinerary_page_nav_18_long {
-		font-size: 1.3rem;
-		grid-template-columns: repeat(12, auto);
-		height: 8.8rem;
-	} */
 	.itinerary_page_nav_18 {
 		font-size: 1.3rem;
 		grid-template-columns: repeat(12, auto);
@@ -267,10 +234,6 @@
 		font-size: 1.5rem;
 	}
 
-	/* .itinerary_page_nav_18,
-	.itinerary_page_nav_18_long {
-		font-size: 1.5rem;
-	} */
 	.itinerary_page_nav_24 {
 		font-size: 1.4rem;
 	}
@@ -302,13 +265,6 @@
 		grid-template-columns: repeat(18, auto);
 		height: 5rem;
 	}
-
-	/* .itinerary_page_nav_18,
-	.itinerary_page_nav_18_long {
-		font-size: 1.5rem;
-		grid-template-columns: repeat(18, auto);
-		height: 5rem;
-	} */
 
 	.itinerary_page_nav_24 {
 		font-size: 1.5rem;

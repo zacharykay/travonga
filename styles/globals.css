@@ -23,6 +23,7 @@
 	/* Width */
 	--max-width: 160rem;
 	--max-text-width: 80rem;
+	--single-carousel-width: calc((480 / 1080) * 100vw);
 
 	/***** Colors *****/
 	/* Links */

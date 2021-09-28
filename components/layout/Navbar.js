@@ -13,6 +13,7 @@ const HeaderLogo = '/assets/Travonga-Travel-Itineraries-Logo-Nav-Header-768x227.
 const Navbar = () => {
 	const [ menuToggled, setMenuToggled ] = useState(false);
 	const [ submenuIndex, setSubmenuIndex ] = useState(null);
+	const [ submenuShow, setSubmenuShow ] = useState(true);
 
 	const toggleSubmenu = (index) => {
 		if (menuToggled) {
@@ -101,10 +102,12 @@ const Navbar = () => {
 								</h2>
 								<ul
 									className={
-										submenuIndex === index ? (
+										submenuIndex === index && submenuShow ? (
 											styles.mobile_menu_open + ' ' + styles.submenu
-										) : (
+										) : submenuShow ? (
 											styles.submenu
+										) : (
+											styles.submenuHide
 										)
 									}
 								>
@@ -128,7 +131,19 @@ const Navbar = () => {
 													{pages.map((page) => {
 														const { id, name, url } = page;
 														return (
-															<li key={id}>
+															<li
+																key={id}
+																onClick={() => {
+																	setSubmenuShow(false);
+																	setMenuToggled(false);
+																	setSubmenuIndex(null);
+																	setTimeout(() => {
+																		setSubmenuShow(
+																			true
+																		);
+																	}, 100);
+																}}
+															>
 																<Link href={url}>
 																	{name}
 																</Link>
