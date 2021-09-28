@@ -30,7 +30,11 @@ const Navbar = () => {
 			<div className={styles.mega_site_nav}>
 				{/* <!-- Site Logo Mobile --> */}
 				<div className={styles.site_logo_mobile}>
-					<a href="/" className={styles.header_image_wrapper_mobile}>
+					<Link
+						href="/"
+						passHref
+						className={styles.header_image_wrapper_mobile}
+					>
 						<Image
 							className={styles.header_image}
 							src={MobileLogo}
@@ -38,7 +42,7 @@ const Navbar = () => {
 							width="202.98"
 							height="60"
 						/>
-					</a>
+					</Link>
 				</div>
 
 				<div
@@ -53,7 +57,7 @@ const Navbar = () => {
 				>
 					{/* <!-- Site Logo Non-Mobile --> */}
 					<div className={styles.site_logo}>
-						<a href="/" className={styles.header_image_wrapper}>
+						<Link href="/" passHref className={styles.header_image_wrapper}>
 							<Image
 								className={styles.header_image}
 								src={HeaderLogo}
@@ -61,7 +65,7 @@ const Navbar = () => {
 								width="202.98"
 								height="60"
 							/>
-						</a>
+						</Link>
 					</div>
 
 					{/* <!-- Attraction Guides Dropdown --> */}
