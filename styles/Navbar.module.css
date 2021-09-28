@@ -76,6 +76,7 @@
 	align-self: flex-start;
 	display: none;
 	height: 6.1rem;
+	cursor: pointer;
 }
 
 .header_image_wrapper {
@@ -93,12 +94,16 @@
 	align-self: flex-start;
 	height: 6rem;
 	left: 50%;
+	cursor: pointer;
+}
+
+.site_logo_mobile > div {
+	left: -50%;
 }
 
 .header_image_wrapper_mobile {
 	display: block;
 	position: relative;
-	left: -50%;
 	margin: 0;
 	padding: 0;
 }
