@@ -26,6 +26,7 @@ const Navbar = () => {
   };
 
   const hideBackdrop = () => {
+    setMenuToggled(false);
     setSubmenuIndex(null);
   };
 
@@ -40,8 +41,12 @@ const Navbar = () => {
     () => {
       if (typeof window !== "undefined") {
         window.addEventListener("scroll", hideBackdrop);
+        window.addEventListener("resize", hideBackdrop);
       }
-      return () => window.removeEventListener("scroll", hideBackdrop);
+      return () => {
+        window.removeEventListener("scroll", hideBackdrop);
+        window.removeEventListener("resize", hideBackdrop);
+      };
       //eslint-disable-next-line
     },
     [ hideMobileBackdrop ]

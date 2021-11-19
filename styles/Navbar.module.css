@@ -113,7 +113,8 @@
 }
 
 .nav_menu_mobile_icon {
-  display: block;
+  display: flex;
+  justify-content: center;
   margin: 0;
   font-size: 3.2rem;
   text-decoration: none;
@@ -136,7 +137,7 @@
   color: var(--bright-white);
 }
 .nav_menu_mobile_icon:active {
-  background: var(--mobile-icon-hover-blue);
+  background-color: var(--mobile-icon-hover-blue);
   color: var(--bright-white);
   text-decoration: none;
 }
