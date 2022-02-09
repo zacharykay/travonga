@@ -1,4 +1,10 @@
 {
+  "../components/widgets/CarouselWrapper.js -> react-owl-carousel": {
+    "id": "./node_modules/react-owl-carousel/umd/OwlCarousel.js",
+    "files": [
+      "static/chunks/node_modules_react-owl-carousel_umd_OwlCarousel_js.js"
+    ]
+  },
   "../node_modules/next/dist/client/next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [

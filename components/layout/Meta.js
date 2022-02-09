@@ -19,6 +19,7 @@ const Meta = ({ meta }) => {
 			<meta property="og:image" content={social_media_thumbnail} />
 			<meta name="twitter:image" content={social_media_thumbnail} />
 			<meta charSet="utf-8" />
+			<meta name="theme-color" content="#444" />
 			<title>{page_title}</title>
 		</>
 	);
