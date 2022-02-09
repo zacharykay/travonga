@@ -66,10 +66,12 @@
 
 .carouselItems {
   position: relative;
-  height: calc(
+  /* height: calc(
     var(--carousel-img-width) * var(--carousel-img-height-ratio) +
       var(--carousel-item-text)
-  );
+  ); */
+  max-width: 1600px;
+  margin: auto;
 }
 
 .carouselItem {
