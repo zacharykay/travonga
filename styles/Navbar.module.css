@@ -279,6 +279,7 @@ h2.menu_item_title_active {
 
   #backdrop {
     display: none;
+    opacity: 0;
   }
 
   .menu_item:hover #menuBackdrop {

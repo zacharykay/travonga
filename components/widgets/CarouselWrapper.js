@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 import dynamic from "next/dynamic";
 import Image from "next/image";
@@ -7,13 +7,6 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import styles from "../../styles/Carousel.module.css";
 import singleStyles from "../../styles/Homepage.module.css";
-
-const OwlCarousel = dynamic(
-  () => {
-    return import("react-owl-carousel");
-  },
-  { ssr: false }
-);
 
 const ResponsiveSettings = {
   0: {
@@ -42,18 +35,25 @@ const HomepageResponsiveSettings = {
 };
 
 const Carousels = ({ attractions, carousel_id, itineraryCarousel, singleCarousel }) => {
-  const carouselItems = itineraryCarousel
+  const carouselSlides = itineraryCarousel
     ? attractions
     : singleCarousel
       ? (attractions = attractions)
       : attractions[carousel_id].map((carousel) => carousel);
 
-  const cloned = carouselItems;
-
-  // const [ imageIsLoaded, setImageIsLoaded ] = useState(false);
+  const OwlCarousel = dynamic(
+    () => {
+      return import("react-owl-carousel");
+    },
+    {
+      ssr: false,
+      suspense: true,
+    }
+  );
 
   return (
     <OwlCarousel
+      fallback={"Loading"}
       className={"owl-theme" + " " + styles.carouselItems}
       loop={true}
       dots={true}
@@ -64,7 +64,7 @@ const Carousels = ({ attractions, carousel_id, itineraryCarousel, singleCarousel
       lazyLoad={false}
       lazyContent={false}
     >
-      {cloned.map((carouselItem, carouselIndex) => {
+      {carouselSlides.map((carouselItem, carouselIndex) => {
         const {
           attraction,
           image_url,
