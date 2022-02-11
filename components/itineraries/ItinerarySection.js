@@ -18,7 +18,7 @@ const ItinerarySection = ({
   note_after_title,
   note_after_subtitle,
   note_after_text,
-  size,
+  // size,
   carouselHeight,
   index,
   length,
@@ -72,7 +72,7 @@ const ItinerarySection = ({
         <Carousel
           attractions={attractions}
           itineraryCarousel={true}
-          size={size}
+          // size={size}
           carouselHeight={carouselHeight}
         />
       )}

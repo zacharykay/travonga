@@ -1,4 +1,5 @@
 module.exports = {
+  generateBuildId: () => "build",
   reactStrictMode: false,
   images: {
     domains: [ "www.travelimager.com" ],

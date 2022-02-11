@@ -25,10 +25,10 @@ const Navbar = () => {
     }
   };
 
-  const hideBackdrop = () => {
+  const hideBackdrop = useCallback(() => {
     setMenuToggled(false);
     setSubmenuIndex(null);
-  };
+  });
 
   const hideMobileBackdrop = useCallback(
     () => {
@@ -100,9 +100,18 @@ const Navbar = () => {
                 key={id}
                 className={styles.menu_item}
                 onClick={() => toggleSubmenu(index)}
+                onMouseEnter={() => setSubmenuShow(true)}
+                onMouseLeave={() => setSubmenuShow(false)}
               >
                 <div
-                  id={menuToggled ? styles.menuBackdrop : styles.backdrop}
+                  id={menuToggled ? styles.menuBackdrop : null}
+                  onClick={() => {
+                    setMenuToggled(!menuToggled);
+                    setSubmenuIndex(null);
+                  }}
+                />
+                <div
+                  id={submenuShow ? styles.backdrop : null}
                   onClick={() => {
                     setMenuToggled(!menuToggled);
                     setSubmenuIndex(null);
@@ -145,9 +154,6 @@ const Navbar = () => {
                                   setSubmenuShow(false);
                                   setMenuToggled(false);
                                   setSubmenuIndex(null);
-                                  setTimeout(() => {
-                                    setSubmenuShow(true);
-                                  }, 100);
                                 }}
                               >
                                 <Link href={url}>{name}</Link>

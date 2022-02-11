@@ -2,7 +2,9 @@ import ItineraryGuideHeader from './ItineraryGuideHeader';
 import { itinerarySections } from '../../data/itinerarySections';
 import ItinerarySection from './ItinerarySection';
 
-const Itinerary = ({ data, size }) => {
+const Itinerary = ({ data,
+	// size
+}) => {
 
 	const {
 		itineraryName,
@@ -38,7 +40,7 @@ const Itinerary = ({ data, size }) => {
 						key={index}
 						{...itineraryLegend}
 						{...itinerarySection}
-						size={size}
+						// size={size}
 						index={index}
 						length={itineraryLength}
 					/>

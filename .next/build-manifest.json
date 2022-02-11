@@ -24,15 +24,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/destinations/czech-republic/[id]": [
+    "/destinations/[id]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/destinations/czech-republic/[id].js"
-    ],
-    "/destinations/europe/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/destinations/europe/[id].js"
+      "static/chunks/pages/destinations/[id].js"
     ],
     "/itineraries/[id]": [
       "static/chunks/webpack.js",
