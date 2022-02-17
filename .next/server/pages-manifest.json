@@ -2,6 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/destinations/[id]": "pages/destinations/[id].js",
-  "/itineraries/[id]": "pages/itineraries/[id].js"
+  "/destinations/europe/[id]": "pages/destinations/europe/[id].js",
+  "/destinations/[id]": "pages/destinations/[id].js"
 }

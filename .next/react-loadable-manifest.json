@@ -1,5 +1,5 @@
 {
-  "../components/widgets/CarouselWrapper.js -> react-owl-carousel": {
+  "../components/widgets/CarouselWrapper.tsx -> react-owl-carousel": {
     "id": "./node_modules/react-owl-carousel/umd/OwlCarousel.js",
     "files": [
       "static/chunks/node_modules_react-owl-carousel_umd_OwlCarousel_js.js"

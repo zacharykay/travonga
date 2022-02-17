@@ -1,19 +1,12 @@
-import Meta from '../layout/Meta'
+import Meta from '../layout/Meta';
 import StickyPageNav from '../widgets/StickyPageNav';
 
-import styles from '../../styles/DestinationPageHeader.module.css'
-import Head from 'next/head'
+import styles from '../../styles/DestinationPageHeader.module.css';
 
 const AttractionGuideHeader = ({ destinationName, stateName, meta, inPageNav }) => {
     return (
         <>
-            <Head>
-                <Meta meta={meta}></Meta>
-                {/* <link
-                    rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans&family=PT+Sans:wght@400;700&family=Lato:ital,wght@0,400;0,700;1,400&display=swap"
-                /> */}
-                <link rel="icon" href="/favicon.ico" />
-            </Head>
+            <Meta meta={meta}></Meta>
 
             <h1>{destinationName}{stateName && <span className='capitalize'>, {stateName}</span>}<br /><span className={styles.destination_inner_title}>Attractions&nbsp;Guide</span></h1>
             <div className={styles.destination_page_section_links}>
@@ -22,23 +15,23 @@ const AttractionGuideHeader = ({ destinationName, stateName, meta, inPageNav }) 
             </div>
 
             {inPageNav && <>
-            <StickyPageNav>
-                <div className={styles[`destination_page_nav_${inPageNav.length !== 9
-										? 2 * Math.round(inPageNav.length / 2)
-										: inPageNav.length}`] + (' ') + styles.in_page_nav}>
-                    {inPageNav.map(({ anchor_tag, anchor_title }, index) => {
-                       return (
-                            <div key={index}>
-                                <a href={`#${anchor_tag}`}>{anchor_title}</a>
-                            </div>)
+                <StickyPageNav>
+                    <div className={styles[`destination_page_nav_${inPageNav.length !== 9
+                        ? 2 * Math.round(inPageNav.length / 2)
+                        : inPageNav.length}`] + (' ') + styles.in_page_nav}>
+                        {inPageNav.map(({ anchor_tag, anchor_title }, index) => {
+                            return (
+                                <div key={index}>
+                                    <a href={`#${anchor_tag}`}>{anchor_title}</a>
+                                </div>);
                         })}
-                </div>
-            </StickyPageNav>
+                    </div>
+                </StickyPageNav>
 
                 <div className={styles.nav_spacer}>&nbsp;</div>
             </>}
         </>
-    )
-}
+    );
+};
 
-export default AttractionGuideHeader
+export default AttractionGuideHeader;

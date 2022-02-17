@@ -1,9 +1,8 @@
-import Meta from '../layout/Meta';
-import StickyPageNav from '../widgets/StickyPageNav';
+import Meta from "../layout/Meta";
+import StickyPageNav from "../widgets/StickyPageNav";
 
-import styles from '../../styles/ItineraryPageNav.module.css';
-import Head from 'next/head';
-import React from 'react';
+import styles from "../../styles/ItineraryPageNav.module.css";
+import React from "react";
 
 const ItineraryGuideHeader = ({
 	itineraryName,
@@ -13,18 +12,11 @@ const ItineraryGuideHeader = ({
 	transportation_type,
 	travel_time_min,
 	travel_time_max,
-	travel_time_format
+	travel_time_format,
 }) => {
 	return (
 		<React.Fragment>
-			<Head>
-				<Meta meta={meta} />
-				{/* <link
-					rel="stylesheet"
-					href="https://fonts.googleapis.com/css?family=Open+Sans&family=PT+Sans:wght@400;700&family=Lato:ital,wght@0,400;0,700;1,400&display=swap"
-				/> */}
-				<link rel="icon" href="/favicon.ico" />
-			</Head>
+			<Meta meta={meta} />
 
 			<h1>
 				{itineraryName} {itinerary_type} Itinerary<br />
@@ -46,12 +38,11 @@ const ItineraryGuideHeader = ({
 						<div
 							className={
 								styles[
-									`itinerary_page_nav_${inPageNav.length !== 9 &&
-									inPageNav.length !== 15
-										? 2 * Math.round(inPageNav.length / 2)
-										: inPageNav.length}`
+								`itinerary_page_nav_${inPageNav.length !== 9 && inPageNav.length !== 15
+									? 2 * Math.round(inPageNav.length / 2)
+									: inPageNav.length}`
 								] +
-								' ' +
+								" " +
 								styles.in_page_nav
 							}
 						>

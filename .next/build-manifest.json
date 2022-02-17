@@ -29,10 +29,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/destinations/[id].js"
     ],
-    "/itineraries/[id]": [
+    "/destinations/europe/[id]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/itineraries/[id].js"
+      "static/chunks/pages/destinations/europe/[id].js"
     ]
   },
   "ampFirstPages": []
