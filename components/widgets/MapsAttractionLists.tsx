@@ -1,25 +1,12 @@
 import { FC } from "react";
 import styles from "../../styles/MapsAttractionLists.module.css";
 
-interface MapLinks {
-  top_attractions?: string;
-  all_attractions?: string;
-  main_attractions?: string;
-  short_attractions?: string;
-  custom_attractions_1?: string;
-  custom_attractions_1_text?: string;
-  custom_attractions_2?: string;
-  custom_attractions_2_text?: string;
-  custom_attractions_3?: string;
-  custom_attractions_3_text?: string;
-  custom_attractions_4?: string;
-  custom_attractions_4_text?: string;
-}
+import { MapLinks } from "./interfaces";
 
 interface Props {
   destinationName: string;
-  stateName: string;
-  destination_link: string;
+  stateName?: string;
+  destination_link?: string;
   attractionMapLinks: MapLinks;
 }
 
