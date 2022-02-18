@@ -57,12 +57,6 @@ const Carousels: FC<Props> = (props) => {
     carouselSlides = [ ...tempAttractions ];
   }
 
-  // const carouselSlides = itineraryCarousel
-  //   ? attractions
-  //   : singleCarousel
-  //     ? (attractions = attractions)
-  //     : attractions[carousel_id].map((carousel) => carousel);
-
   const OwlCarousel = dynamic(
     () => {
       return import("react-owl-carousel");

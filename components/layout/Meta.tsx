@@ -1,7 +1,7 @@
 import { FC } from "react";
 import Head from "next/head";
 
-type Meta = {
+export type MetaProps = {
   page_title: string;
   thumbnail: string;
   meta_description: string;
@@ -11,10 +11,10 @@ type Meta = {
 } & typeof defaultProps;
 
 interface Props {
-  meta: Meta;
+  meta: MetaProps;
 }
 
-const Meta: FC<Props> = ({ meta }: { meta: Meta }) => {
+const Meta: FC<Props> = ({ meta }: { meta: MetaProps }) => {
   const {
     page_title,
     thumbnail,
@@ -35,8 +35,8 @@ const Meta: FC<Props> = ({ meta }: { meta: Meta }) => {
       <meta property="og:image" content={social_media_thumbnail} />
       <meta name="twitter:image" content={social_media_thumbnail} />
       <meta charSet="utf-8" />
-		  <meta name="theme-color" content="#444" />
-		  <link rel="icon" href="/favicon.ico" />
+      <meta name="theme-color" content="#444" />
+      <link rel="icon" href="/favicon.ico" />
       <title>{page_title}</title>
     </Head>
   );

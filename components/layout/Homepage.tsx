@@ -3,23 +3,34 @@ import styles from "../../styles/Homepage.module.css";
 import Carousel from "../widgets/CarouselWrapper";
 
 interface Props {
-  itinerary: any;
+  itinerary: ItineraryProps;
 }
 
 interface ItineraryProps {
-  itinerary_link: any;
-  itinerary_title: any;
-  itinerary_title_line_2: any;
-  itinerary_length: any;
-  by_train: any;
-  road_trip?: any;
-  carousel_items: any;
-  itinerary_destinations: any;
-  main_attractions: any;
-  trip_extension_options: any;
+  itinerary_link: string;
+  itinerary_title: string;
+  itinerary_title_line_2: string;
+  itinerary_length: string;
+  by_train: boolean;
+  road_trip?: boolean;
+  carousel_items: HomepageCarouselData[];
+  itinerary_destinations: HomepageItineraryDestinations[];
+  main_attractions: string[];
+  trip_extension_options: HomepageItineraryDestinations[];
 }
 
-const Homepage: FC<Props> = ({ itinerary }: { itinerary: ItineraryProps }) => {
+interface HomepageCarouselData {
+  image_location: string;
+  image_url: string;
+  image_alt: string;
+}
+
+interface HomepageItineraryDestinations {
+  destination_name: string;
+  destination_link: string;
+}
+
+const Homepage: FC<Props> = ({ itinerary }) => {
   const {
     itinerary_link,
     itinerary_title,

@@ -5,6 +5,8 @@ interface Props {
   itinerary: any;
 }
 
+interface Tabs {}
+
 const Tabs: FC<Props> = ({ itinerary }: { itinerary: any }) => {
   const [ tabsOpen, setTabsOpen ] = useState<boolean>(false);
   const [ value, setValue ] = useState<number>(0);

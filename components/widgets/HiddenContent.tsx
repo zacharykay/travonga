@@ -1,7 +1,7 @@
 import React, { useState, useRef, FC } from "react";
 
 interface Props {
-  hidden_content: any;
+  hidden_content: string;
 }
 
 const HiddenContent: FC<Props> = (props) => {

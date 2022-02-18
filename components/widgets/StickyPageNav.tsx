@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback, FC } from "react";
 
 interface Props {
-  children: HTMLElement;
+  children: JSX.Element;
 }
 
 const StickyPageNav: FC<Props> = (props) => {
