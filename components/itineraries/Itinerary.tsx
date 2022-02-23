@@ -4,7 +4,7 @@ import ItineraryGuideHeader from './ItineraryGuideHeader';
 import { itinerarySections } from '../../data/itinerarySections';
 import ItinerarySection from './ItinerarySection';
 
-import { ItineraryData, ItineraryItemSections } from './interfaces'
+import { ItineraryData, ItineraryItemSection, ItineraryItemSections, ItineraryListData } from './interfaces'
 
 interface Props {
 	data: ItineraryData,
@@ -26,7 +26,7 @@ const Itinerary: FC<Props> = ({ data
 
 	const itineraryLength = data.itinerary.length
 
-	const itineraryItemSections: ItineraryItemSections = itinerarySections
+	// const itineraryItemSections: ItineraryItemSections = itinerarySections
 
 	return (
 		<>
@@ -40,9 +40,10 @@ const Itinerary: FC<Props> = ({ data
 				travel_time_max={travel_time_max}
 				travel_time_format={travel_time_format}
 			/>
-			{data.itinerary.map((itineraryLegend, index: number) => {
+			{data.itinerary.map((itineraryLegend: ItineraryListData, index: number) => {
 				const { id } = itineraryLegend;
-				const itinerarySection = itineraryItemSections[id]
+				const itinerarySection = {...itinerarySections[id]}
+				
 
 				return (
 					<ItinerarySection

@@ -7,6 +7,20 @@ import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import styles from "../../styles/Carousel.module.css";
 import singleStyles from "../../styles/Homepage.module.css";
+import { HomepageCarouselData } from "../layout/HomepageSection";
+import { CarouselItem } from "./CarouselItem";
+
+interface CarouselItem {
+  attraction: string;
+  image_url: string;
+  image_alt: string;
+  image_location: string;
+  cc_image_url: string;
+  cc_author_url: string;
+  cc_author: string;
+  cc_license?: string;
+  cc_license_url?: string;
+}
 
 interface Props {
   attractions: any;
@@ -53,7 +67,9 @@ const Carousels: FC<Props> = (props) => {
   if (itineraryCarousel || singleCarousel) {
     carouselSlides = [ ...attractions ];
   } else if (carousel_id && !itineraryCarousel && !singleCarousel) {
-    let tempAttractions = attractions[carousel_id].map((carousel: any) => carousel);
+    let tempAttractions = attractions[carousel_id].map(
+      (carousel: HomepageCarouselData) => carousel
+    );
     carouselSlides = [ ...tempAttractions ];
   }
 
@@ -80,7 +96,15 @@ const Carousels: FC<Props> = (props) => {
       lazyLoad={false}
       lazyContent={false}
     >
-      {carouselSlides.map((carouselItem, carouselIndex) => {
+      {carouselSlides.map((carouselItem: CarouselItem, carouselIndex: number) => {
+        // return (
+        //   <CarouselItem
+        //     key={carouselIndex}
+        //     carouselIndex={carouselIndex}
+        //     carouselItem={carouselItem}
+        //     singleCarousel={singleCarousel}
+        //   />
+        // );
         const {
           attraction,
           image_url,
@@ -101,11 +125,20 @@ const Carousels: FC<Props> = (props) => {
               width={640}
               height={480}
               priority={false}
+              loading={"eager"}
               // onLoad={(event) => {
               //   const target = event.target;
-              //   if (target.src.indexOf("data:image/gif;base64") < 0) {
-              //     setImageIsLoaded(true);
+              //   if (event.target.src) {
+              //     if (target.src.indexOf("data:image/gif;base64") < 0) {
+              //       setImageLoaded(true);
+              //     } else {
+              //       setImageLoaded(false);
+              //     }
+              //     // console.log("Target", event.target.src);
               //   }
+              // if (target.srcset.indexOf("data:image/gif;base64") < 0) {
+              //   setImageIsLoaded(true);
+              // }
               // }}
             />
             {singleCarousel ? (

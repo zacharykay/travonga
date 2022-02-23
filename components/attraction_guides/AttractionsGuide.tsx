@@ -6,7 +6,7 @@ import AttractionGuideHeader from "./AttractionGuideHeader";
 import AttractionGuideSection from "./AttractionGuideSection";
 import Carousel from "../widgets/CarouselWrapper";
 
-import { AttractionsData } from "./interfaces";
+import { AttractionsData, AttractionData } from "./interfaces";
 
 interface Props {
   data: AttractionsData;
@@ -52,7 +52,7 @@ const AttractionsGuide: FC<Props> = ({ data }: { data: AttractionsData }) => {
       />
       {attractions_guide_content ? (
         <React.Fragment>
-          {attractions_guide_content.map((item: any, index: number) => {
+          {attractions_guide_content.map((item: AttractionData, index: number) => {
             const { body, heading, anchor, carousel_id, hidden_content } = item;
             return (
               <React.Fragment key={index}>
@@ -66,8 +66,8 @@ const AttractionsGuide: FC<Props> = ({ data }: { data: AttractionsData }) => {
                 {body ? (
                   <AttractionGuideSection
                     heading={heading}
-                    anchor={anchor}
-                    hidden_content={hidden_content}
+                    anchor={anchor ? anchor : undefined}
+                    hidden_content={hidden_content ? hidden_content : undefined}
                   >
                     {body}
                   </AttractionGuideSection>

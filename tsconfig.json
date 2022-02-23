@@ -99,7 +99,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "components/layout/Meta.js", "components/destinations/DestinationCard.js"  ],
+, "pages/_app.js", "pages/_app.js", "pages/_app.js", "components/layout/Meta.js", "components/destinations/DestinationCard.js"  ],
   "exclude": [
     "node_modules"
   ]

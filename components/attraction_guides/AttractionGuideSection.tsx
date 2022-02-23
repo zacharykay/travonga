@@ -3,9 +3,9 @@ import { FC } from "react";
 const { default: HiddenContent } = require("../widgets/HiddenContent");
 
 interface Props {
-  anchor: string;
+  anchor?: string;
   heading: string;
-  hidden_content: string;
+  hidden_content?: string;
   children: string;
 }
 
