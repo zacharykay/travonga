@@ -1,13 +1,14 @@
 import { useState, FC } from "react";
 import styles from "../../styles/Tabs.module.css";
+import { TabSections } from "./interfaces";
 
 interface Props {
-  itinerary: any;
+  itinerary: TabSections[];
 }
 
 interface Tabs {}
 
-const Tabs: FC<Props> = ({ itinerary }: { itinerary: any }) => {
+const Tabs: FC<Props> = ({ itinerary }: { itinerary: TabSections[] }) => {
   const [ tabsOpen, setTabsOpen ] = useState<boolean>(false);
   const [ value, setValue ] = useState<number>(0);
 

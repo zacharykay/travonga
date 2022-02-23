@@ -20,44 +20,44 @@ export interface ItineraryData extends ItineraryGeneralData {
 export interface ItineraryListData {
     id: string | number;
     itinerary_type: string;
-    days_min: string | number | null;
-    days_max: string | number | null;
+    days_min: string | number;
+    days_max: string | number;
     note_after_title?: string;
     note_after_subtitle?: string;
     note_after_text?: string;
 }
 
 export interface ItineraryItemSections {
-    [key: string]: any;
+    [key: string]: ItineraryItemSection;
 }
 
 export interface ItinerarySection {
-   id: string;
+    id: string;
     itineraries: string;
     destinationName: string;
-    stateName: string;
+    stateName: string | null;
     region: string;
     anchor_tag: string | null;
-    destination_link: string; 
+    destination_link: string;
     attractionMapLinks: MapLinks;
-    itinerary_guide_tabs?: TabSections;
+    itinerary_guide_tabs?: TabSections[];
     attractions: ItinerarySectionAttractions;
 }
 
 export interface ItineraryItemSection {
     destinationName: string,
-    stateName: string,
+    stateName: string | null,
     itinerary_type: string,
     days_min: number | string,
     days_max: number | string,
     destination_link: string,
     anchor_tag: string | null,
     attractions: ItinerarySectionAttractions[],
-    itinerary_guide_tabs: [tab_title: string, tab_content: string],
+    itinerary_guide_tabs?: TabSections[],
     attractionMapLinks: MapLinks,
-    note_after_title: string,
-    note_after_subtitle: string,
-    note_after_text: string,
+    note_after_title?: string,
+    note_after_subtitle?: string,
+    note_after_text?: string,
     index: number,
     length: number,
 }
@@ -69,6 +69,6 @@ export interface ItinerarySectionAttractions {
     cc_image_url: string;
     cc_author_url: string;
     cc_author: string,
-    cc_license_url: string | null;
-    cc_license: string | null;
+    cc_license_url?: string | null;
+    cc_license?: string | null;
 }
