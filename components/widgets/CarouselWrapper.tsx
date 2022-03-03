@@ -8,7 +8,7 @@ import "owl.carousel/dist/assets/owl.theme.default.css";
 import styles from "../../styles/Carousel.module.css";
 import singleStyles from "../../styles/Homepage.module.css";
 import { HomepageCarouselData } from "../layout/HomepageSection";
-import { CarouselItem } from "./CarouselItem";
+// import { CarouselItem } from "./CarouselItem";
 
 interface CarouselItem {
   attraction: string;
